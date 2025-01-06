@@ -1,91 +1,91 @@
-"PARTICIPANT","N","Name","UniprotID","category"
-"401","1","Proto-oncogene tyrosine-protein kinase Src","P12931","enzyme"
-"401","2","ATP-binding cassette subfamily G member 2","Q9UNQ0","transporter"
-"401","3","5-hydroxytryptamine receptor 1f","P30939","gpcr"
-"402","1","Cystic fibrosis transmembrane conductance regulator","P13569","other_ic"
-"402","2","Mineralocorticoid receptor","P08235","nhr"
-"402","3","5-hydroxytryptamine receptor 2a","P28223","gpcr"
-"403","1","Transthyretin","P02766","other_protein"
-"403","2","Platelet-derived growth factor receptor alpha","P16234","catalytic_receptor"
-"403","3","C5a anaphylatoxin chemotactic receptor 1","P21730","gpcr"
-"404","1","adenosine receptor a2a","P29274","gpcr"
-"404","2","Cytochrome P450 2C19","P33261","enzyme"
-"404","3","Macrophage colony-stimulating factor 1 receptor","P07333","catalytic_receptor"
-"405","1","lanosterol synthase","P48449","enzyme"
-"405","2","Vascular endothelial growth factor receptor 2","P35968","catalytic_receptor"
-"405","3","Exportin-1","O14980","other_protein"
-"406","1","Poly [ADP-ribose] polymerase 1","P09874","enzyme"
-"406","2","Androgen receptor","P10275","nhr"
-"406","3","Calcitonin gene-related peptide type 1 receptor","Q16602","gpcr"
-"407","1","tribbles pseudokinase 3","Q96RU7","enzyme"
-"407","2","Tyrosine-protein kinase Abl","P00519","enzyme"
-"407","3","catechol o-methyltransferase","P21964","enzyme"
-"408","1","Protein mono-ADP-ribosyltransferase PARP3","Q9Y6F1","enzyme"
-"408","2","alpha-2c adrenergic receptor","P18825","gpcr"
-"408","3","Epidermal growth factor receptor","P00533","catalytic_receptor"
-"409","1","protein farnesyltransferase","P49354","enzyme"
-"409","2","Melanocyte-stimulating hormone receptor","Q01726","gpcr"
-"409","3","Histamine H3 receptor","Q9Y5N1","gpcr"
-"410","1","Ileal sodium/bile acid cotransporter","Q12908","transporter"
-"410","2","Progesterone receptor","P06401","nhr"
-"410","3","Hepatocyte growth factor receptor","P08581","catalytic_receptor"
-"411","1","Sodium-dependent noradrenaline transporter","P23975","transporter"
-"411","2","Serine/threonine-protein kinase B-raf","P15056","enzyme"
-"411","3","Retinoic acid receptor gamma","P13631","nhr"
-"412","1","Peptidyl-prolyl cis-trans isomerase A","P62937","enzyme"
-"412","2","thrombopoietin receptor","P40238","catalytic_receptor"
-"412","3","Tyrosine-protein kinase JAK2","O60674","enzyme"
-"413","1","Fibroblast growth factor receptor 2","P21802","catalytic_receptor"
-"413","2","Muscarinic acetylcholine receptor M3","P20309","gpcr"
-"413","3","enhancer of zeste 2 polycomb repressive complex 2 subunit","Q15910","enzyme"
-"414","1","Gonadotropin-releasing hormone receptor","P30968","gpcr"
-"414","2","GTPase KRas","P01116","enzyme"
-"414","3","kappa-type opioid receptor","P41145","gpcr"
-"301","1","Mu opioid receptor","P35372","gpcr"
-"301","2","Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform","P42336","enzyme"
-"301","3","Sphingosine 1-phosphate receptor 1","P21453","gpcr"
-"302","1","Plasma kallikrein","P03952","enzyme"
-"302","2","orexin receptor type 2","O43614","gpcr"
-"302","3","Cytochrome P450 11B2, mitochondrial","P19099","enzyme"
-"303","1","Aldehyde dehydrogenase 2, mitochondrial","P05091","enzyme"
-"303","2","Solute carrier family 22 member 8","Q8TCC7","transporter"
-"303","3","Proto-oncogene tyrosine-protein kinase receptor Ret","P07949","catalytic_receptor"
-"304","1","Lanosterol 14-alpha demethylase","Q16850","enzyme"
-"304","2","CoV 3C-like (main) protease","P0C6U8","other_protein"
-"304","3","Proton-coupled folate transporter","Q96NT5","transporter"
-"305","1","Beta 3 adrenoceptor","P13945","gpcr"
-"305","2","Angiotensin II receptor type 2","P50052","gpcr"
-"305","3","Organic cation/carnitine transporter 2","O76082","transporter"
-"306","1","Gamma-aminobutyric acid receptor subunit alpha-1","P14867","lgic"
-"306","2","Neuroendocrine convertase 2","P16519","enzyme"
-"306","3","Tyrosine-protein kinase receptor UFO","P30530","catalytic_receptor"
-"307","1","Cytochrome P450 1A2","P05177","enzyme"
-"307","2","Nuclear receptor subfamily 1 group I member 2","O75469","nhr"
-"307","3","Receptor-type tyrosine-protein kinase FLT3","P36888","catalytic_receptor"
-"201","1","potassium voltage-gated channel subfamily kqt member 1","P51787","vgic"
-"201","2","Phosphatidylinositol 4-kinase","P42356","enzyme"
-"201","3","P2X7 purinoceptor","Q99572","lgic"
-"202","1","Cyclin-dependent kinase 6","Q00534","enzyme"
-"202","2","Coagulation factor X","P00742","enzyme"
-"202","3","Proteasome subunit beta 5","P28074","enzyme"
-"203","1","5-Hydroxytryptamine 4 receptor","Q13639","gpcr"
-"203","2","5-hydroxytryptamine receptor 3b","O95264","lgic"
-"203","3","Extracellular calcium-sensing receptor","P41180","gpcr"
-"204","1","Neurotrophic receptor tyrosine kinase 1","P04629","catalytic_receptor"
-"204","2","Fibroblast growth factor receptor 1","P11362","catalytic_receptor"
-"204","3","Potassium voltage-gated channel subfamily H member 2","Q12809","vgic"
-"205","1","Growth hormone secretagogue receptor type 1","Q92847","gpcr"
-"205","2","Rho-associated protein kinase 2","O75116","enzyme"
-"205","3","Cell division control protein 2 homolog","P06493","enzyme"
-"206","1","Sodium/hydrogen exchanger 3","P48764","transporter"
-"206","2","Tryptophan 5-hydroxylase 2","Q8IWU9","enzyme"
-"206","3","Guanylate cyclase soluble subunit alpha-2","P33402","catalytic_receptor"
-"207","1","Mitogen-activated protein kinase 1","P28482","enzyme"
-"207","2","Synaptic vesicular amine transporter","Q05940","transporter"
-"207","3","Glucocorticoid receptor","P04150","nhr"
-"208","1","Sodium/glucose cotransporter 2","P31639","transporter"
-"208","2","ALK tyrosine kinase receptor","Q9UM73","catalytic_receptor"
-"208","3","Ceramide glucosyltransferase","Q16739","enzyme"
-"209","1","BDNF/NT-3 growth factors receptor","Q16620","catalytic_receptor"
-"209","2","Amine oxidase [flavin-containing] B","P27338","enzyme"
-"209","3","Potassium channel, voltage dependent, Kv3.3","Q14003","vgic"
+PARTICIPANT,N,Name,category,Syn 1,Syn 2,Syn 3,UniprotID
+401,1,Proto-oncogene tyrosine-protein kinase Src,enzyme,Proto-oncogene tyrosine-protein kinase Src,SRC,SRC proto-oncogene,P12931
+401,2,ATP-binding cassette subfamily G member 2,transporter,ATP-binding cassette subfamily G member 2,ABCG2,MXR,Q9UNQ0
+401,3,5-hydroxytryptamine receptor 1f,gpcr,5-hydroxytryptamine receptor 1f,HTR1F,5-HT1F,P30939
+402,1,Cystic fibrosis transmembrane conductance regulator,other_ic,Cystic fibrosis transmembrane conductance regulator,CFTR,MRP7,P13569
+402,2,Mineralocorticoid receptor,nhr,Mineralocorticoid receptor,NR3C2,MR,P08235
+402,3,5-hydroxytryptamine receptor 2a,gpcr,5-hydroxytryptamine receptor 2a,HTR2A,5-HT2a,P28223
+403,1,Transthyretin,other_protein,Transthyretin,TTR,CTS,P02766
+403,2,Platelet-derived growth factor receptor alpha,catalytic_receptor,Platelet-derived growth factor receptor alpha,PDGFRA,CD140a,P16234
+403,3,C5a anaphylatoxin chemotactic receptor 1,gpcr,C5a anaphylatoxin chemotactic receptor 1,C5AR1,C5AR,P21730
+404,1,adenosine receptor a2a,gpcr,adenosine receptor a2a,ADORA2A,RDC8,P29274
+404,2,Cytochrome P450 2C19,enzyme,Cytochrome P450 2C19,CYP2C19,CPCJ,P33261
+404,3,Macrophage colony-stimulating factor 1 receptor,catalytic_receptor,Macrophage colony-stimulating factor 1 receptor,CSF1R,C-FMS,P07333
+405,1,lanosterol synthase,enzyme,lanosterol synthase,LSS,OSC,P48449
+405,2,Vascular endothelial growth factor receptor 2,catalytic_receptor,Vascular endothelial growth factor receptor 2,VEGF,VPF,P35968
+405,3,Exportin-1,other_protein,Exportin-1,XPO1,CRM1,O14980
+406,1,Poly [ADP-ribose] polymerase 1,enzyme,Poly [ADP-ribose] polymerase 1,PARP1,PARS,P09874
+406,2,Androgen receptor,nhr,Androgen receptor,AR,AIS,P10275
+406,3,Calcitonin gene-related peptide type 1 receptor,gpcr,Calcitonin gene-related peptide type 1 receptor,CALCRL,CTR,Q16602
+407,1,tribbles pseudokinase 3,enzyme,tribbles pseudokinase 3,TRIB3,NIPK,Q96RU7
+407,2,Tyrosine-protein kinase Abl,enzyme,Tyrosine-protein kinase Abl,ABL1,ABL proto-oncogene 1,P00519
+407,3,catechol o-methyltransferase,enzyme,catechol o-methyltransferase,COMT,Comt1,P21964
+408,1,Protein mono-ADP-ribosyltransferase PARP3,enzyme,Protein mono-ADP-ribosyltransferase PARP3,PARP3,pADPRT-3,Q9Y6F1
+408,2,alpha-2c adrenergic receptor,gpcr,alpha-2c adrenergic receptor,ADRA2C,adrenergic receptor,P18825
+408,3,Epidermal growth factor receptor,catalytic_receptor,Epidermal growth factor receptor,EGFR,ERRP,P00533
+409,1,protein farnesyltransferase,enzyme,protein farnesyltransferase,FNTA,PGGT1A,P49354
+409,2,Melanocyte-stimulating hormone receptor,gpcr,Melanocyte-stimulating hormone receptor,MC1R,MSH-R,Q01726
+409,3,Histamine H3 receptor,gpcr,Histamine H3 receptor,HRH3,GPCR97,Q9Y5N1
+410,1,Ileal sodium/bile acid cotransporter,transporter,Ileal sodium/bile acid cotransporter,SLC10A2,IBAT,Q12908
+410,2,Progesterone receptor,nhr,Progesterone receptor,PGR,progestin receptor,P06401
+410,3,Hepatocyte growth factor receptor,catalytic_receptor,Hepatocyte growth factor receptor,MET,HGFB,P08581
+411,1,Sodium-dependent noradrenaline transporter,transporter,Sodium-dependent noradrenaline transporter,SLC6A2,NaCl-dependent norepinephrine transporter,P23975
+411,2,Serine/threonine-protein kinase B-raf,enzyme,Serine/threonine-protein kinase B-raf,BRAF,B-Raf proto-oncogene,P15056
+411,3,Retinoic acid receptor gamma,nhr,Retinoic acid receptor gamma,RARG,NR1B3,P13631
+412,1,Peptidyl-prolyl cis-trans isomerase A,enzyme,Peptidyl-prolyl cis-trans isomerase A,PPIA,CYPA,P62937
+412,2,thrombopoietin receptor,catalytic_receptor,thrombopoietin receptor,MPL,TPOR,P40238
+412,3,Tyrosine-protein kinase JAK2,enzyme,Tyrosine-protein kinase JAK2,JAK2,JTK10,O60674
+413,1,Fibroblast growth factor receptor 2,catalytic_receptor,Fibroblast growth factor receptor 2,FGFR2,TK14,P21802
+413,2,Muscarinic acetylcholine receptor M3,gpcr,Muscarinic acetylcholine receptor M3,CHRM3,M3R,P20309
+413,3,enhancer of zeste 2 polycomb repressive complex 2 subunit,enzyme,enhancer of zeste 2 polycomb repressive complex 2 subunit,EZH2,KMT6,Q15910
+414,1,Gonadotropin-releasing hormone receptor,gpcr,Gonadotropin-releasing hormone receptor,GNRHR,LHRHR,P30968
+414,2,GTPase KRas,enzyme,GTPase KRas,KRAS,Kirsten rat sarcoma viral oncogene,P01116
+414,3,kappa-type opioid receptor,gpcr,kappa-type opioid receptor,OPRK1,KOR-1,P41145
+301,1,Mu opioid receptor,gpcr,Mu opioid receptor,OPRM1,MOR1,P35372
+301,2,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",enzyme,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",PIK3CA,PI3K,P42336
+301,3,Sphingosine 1-phosphate receptor 1,gpcr,Sphingosine 1-phosphate receptor 1,S1PR1,S1P1 receptor,P21453
+302,1,Plasma kallikrein,enzyme,Plasma kallikrein,KLKB1,kallikrein B1,P03952
+302,2,orexin receptor type 2,gpcr,orexin receptor type 2,HCRTR2,hypocretin receptor 2,O43614
+302,3,"Cytochrome P450 11B2, mitochondrial",enzyme,"Cytochrome P450 11B2, mitochondrial",CYP11B2,aldosterone-synthesizing enzyme,P19099
+303,1,"Aldehyde dehydrogenase 2, mitochondrial",enzyme,"Aldehyde dehydrogenase 2, mitochondrial",ALDH2,aldehyde dehydrogenase 2,P05091
+303,2,Solute carrier family 22 member 8,transporter,Solute carrier family 22 member 8,SLC22A8,OAT3,Q8TCC7
+303,3,Proto-oncogene tyrosine-protein kinase receptor Ret,catalytic_receptor,Proto-oncogene tyrosine-protein kinase receptor Ret,RET,ret proto-oncogene,P07949
+304,1,Lanosterol 14-alpha demethylase,enzyme,Lanosterol 14-alpha demethylase,CYP51A1,CYPL1,Q16850
+304,2,CoV 3C-like (main) protease,other_protein,CoV 3C-like (main) protease,nsp5,3CL protease,P0C6U8
+304,3,Proton-coupled folate transporter,transporter,Proton-coupled folate transporter,SLC46A1,HCP1,Q96NT5
+305,1,Beta 3 adrenoceptor,gpcr,Beta 3 adrenoceptor,ADRB3,Adrb-3,P13945
+305,2,Angiotensin II receptor type 2,gpcr,Angiotensin II receptor type 2,AGTR2,AT2R,P50052
+305,3,Organic cation/carnitine transporter 2,transporter,Organic cation/carnitine transporter 2,SLC22A5,CT1,O76082
+306,1,Gamma-aminobutyric acid receptor subunit alpha-1,lgic,Gamma-aminobutyric acid receptor subunit alpha-1,GABRA1,EJM5,P14867
+306,2,Neuroendocrine convertase 2,enzyme,Neuroendocrine convertase 2,PCSK2,NEC 2,P16519
+306,3,Tyrosine-protein kinase receptor UFO,catalytic_receptor,Tyrosine-protein kinase receptor UFO,AXL,Tyro7,P30530
+307,1,Cytochrome P450 1A2,enzyme,Cytochrome P450 1A2,CYP1A2,CP12,P05177
+307,2,Nuclear receptor subfamily 1 group I member 2,nhr,Nuclear receptor subfamily 1 group I member 2,NR1I2,BXR,O75469
+307,3,Receptor-type tyrosine-protein kinase FLT3,catalytic_receptor,Receptor-type tyrosine-protein kinase FLT3,FLT3,Fetal liver kinase 2,P36888
+201,1,potassium voltage-gated channel subfamily kqt member 1,vgic,potassium voltage-gated channel subfamily kqt member 1,KCNQ1,LQT1,P51787
+201,2,Phosphatidylinositol 4-kinase,enzyme,Phosphatidylinositol 4-kinase,PI4KA,PI4K-alpha,P42356
+201,3,P2X7 purinoceptor,lgic,P2X7 purinoceptor,P2RX7,P2Z receptor,Q99572
+202,1,Cyclin-dependent kinase 6,enzyme,Cyclin-dependent kinase 6,CDK6,CRK2,Q00534
+202,2,Coagulation factor X,enzyme,Coagulation factor X,F10,Cf10,P00742
+202,3,Proteasome subunit beta 5,enzyme,Proteasome subunit beta 5,PSMB5,MB1,P28074
+203,1,5-Hydroxytryptamine 4 receptor,gpcr,5-Hydroxytryptamine 4 receptor,HTR4,5-HT4,Q13639
+203,2,5-hydroxytryptamine receptor 3b,lgic,5-hydroxytryptamine receptor 3b,HTR3B,serotonin receptor 3B,O95264
+203,3,Extracellular calcium-sensing receptor,gpcr,Extracellular calcium-sensing receptor,CASR,GPRC2A,P41180
+204,1,Neurotrophic receptor tyrosine kinase 1,catalytic_receptor,Neurotrophic receptor tyrosine kinase 1,NTRK1,TRK,P04629
+204,2,Fibroblast growth factor receptor 1,catalytic_receptor,Fibroblast growth factor receptor 1,FGFR1,BFGFR,P11362
+204,3,Potassium voltage-gated channel subfamily H member 2,vgic,Potassium voltage-gated channel subfamily H member 2,KCNH2,ERG-1,Q12809
+205,1,Growth hormone secretagogue receptor type 1,gpcr,Growth hormone secretagogue receptor type 1,GHSR,GH-releasing peptide receptor,Q92847
+205,2,Rho-associated protein kinase 2,enzyme,Rho-associated protein kinase 2,ROCK2,ROCK-II,O75116
+205,3,Cell division control protein 2 homolog,enzyme,Cell division control protein 2 homolog,CDK1,CDC28A,P06493
+206,1,Sodium/hydrogen exchanger 3,transporter,Sodium/hydrogen exchanger 3,SLC9A3,Na(+)/H(+) exchanger 3,P48764
+206,2,Tryptophan 5-hydroxylase 2,enzyme,Tryptophan 5-hydroxylase 2,TPH2,NTPH,Q8IWU9
+206,3,Guanylate cyclase soluble subunit alpha-2,catalytic_receptor,Guanylate cyclase soluble subunit alpha-2,GUCY1A2,GCS-alpha-2,P33402
+207,1,Mitogen-activated protein kinase 1,enzyme,Mitogen-activated protein kinase 1,MAPK1,ERT1,P28482
+207,2,Synaptic vesicular amine transporter,transporter,Synaptic vesicular amine transporter,SLC18A2,SVMT,Q05940
+207,3,Glucocorticoid receptor,nhr,Glucocorticoid receptor,NR3C1,GR,P04150
+208,1,Sodium/glucose cotransporter 2,transporter,Sodium/glucose cotransporter 2,SLC5A2,Na(+)/glucose cotransporter 2,P31639
+208,2,ALK tyrosine kinase receptor,catalytic_receptor,ALK tyrosine kinase receptor,ALK,CD246,Q9UM73
+208,3,Ceramide glucosyltransferase,enzyme,Ceramide glucosyltransferase,UGCG,GLCT-1,Q16739
+209,1,BDNF/NT-3 growth factors receptor,catalytic_receptor,BDNF/NT-3 growth factors receptor,NTRK2,TRKB,Q16620
+209,2,Amine oxidase [flavin-containing] B,enzyme,Amine oxidase [flavin-containing] B,MAOB,monoamine oxidase B,P27338
+209,3,"Potassium channel, voltage dependent, Kv3.3",vgic,"Potassium channel, voltage dependent, Kv3.3",KCNC3,SCA13,Q14003

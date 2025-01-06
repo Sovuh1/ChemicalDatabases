@@ -1,151 +1,151 @@
-"PARTICIPANT","N","Name","CAS","SYN","category","Syn2"
-"201","5","Filgotinib","1206161-97-8","1","FDA","N-(5-{4-[(1,1-dioxo-1λ⁶-thiomorpholin-4-yl)methyl]phenyl}-[1,2,4]triazolo[1,5-a]pyridin-2-yl)cyclopropanecarboxamide"
-"201","4","parmodulin 2","423735-93-7","1","CLINICAL_TRIALS","2-bromo-N-(3-butanamidophenyl)benzamide"
-"201","3","(R)-Ofloxacin","100986-86-5","1","CLINICAL_TRIALS","(2R)-7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.0⁵,¹³]trideca-5(13),6,8,11-tetraene-11-carboxylic acid"
-"201","2","GSK-5959","901245-65-6","0","PROBE","N-[1,3-dimethyl-2-oxo-6-(piperidin-1-yl)-2,3-dihydro-1H-1,3-benzodiazol-5-yl]-2-methoxybenzamide"
-"201","1","Navitoclax","923564-51-6","1","LEAD","4-(4-{[2-(4-chlorophenyl)-5,5-dimethylcyclohex-1-en-1-yl]methyl}piperazin-1-yl)-N-(4-{[(2R)-4-(morpholin-4-yl)-1-(phenylsulfanyl)butan-2-yl]amino}-3-trifluoromethanesulfonylbenzenesulfonyl)benzamide"
-"202","5","Miglitol","72432-03-2","1","FDA","(2R,3R,4R,5S)-1-(2-hydroxyethyl)-2-(hydroxymethyl)piperidine-3,4,5-triol"
-"202","4","Kartogenin","4727-31-5","1","CLINICAL_TRIALS","2-({[1,1'-biphenyl]-4-yl}carbamoyl)benzoic acid"
-"202","3","Frentizole","26130-02-9","1","CLINICAL_TRIALS","3-(6-methoxy-1,3-benzothiazol-2-yl)-1-phenylurea"
-"202","2","ABT-724","70006-24-5","0","PROBE","2-{[4-(pyridin-2-yl)piperazin-1-yl]methyl}-1H-1,3-benzodiazole"
-"202","1","Ro 90-7501","293762-45-5","0","LEAD","2-[2-(4-aminophenyl)-1H-1,3-benzodiazol-6-yl]-1H-1,3-benzodiazol-6-amine"
-"203","5","Hydrocortisone acetate","50-03-3","1","FDA","2-[(1R,3aS,3bS,9aR,9bS,10S,11aS)-1,10-dihydroxy-9a,11a-dimethyl-7-oxo-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-yl]-2-oxoethyl acetate"
-"203","4","Bretylium tosylate","61-75-6","1","CLINICAL_TRIALS","[(2-bromophenyl)methyl](ethyl)dimethylazanium 4-methylbenzene-1-sulfonate"
-"203","3","SMI-4a","327033-36-3","1","CLINICAL_TRIALS","5-{[3-(trifluoromethyl)phenyl]methylidene}-1,3-thiazolidine-2,4-dione"
-"203","2","OL-135","681135-77-3","0","PROBE","7-phenyl-1-[5-(pyridin-2-yl)-1,3-oxazol-2-yl]heptan-1-one"
-"203","1","Corr 4a","421580-53-2","0","LEAD","N-(5-{2-[(5-chloro-2-methoxyphenyl)amino]-1,3-thiazol-4-yl}-4-methyl-1,3-thiazol-2-yl)benzamide"
-"204","5","Cetirizine","83881-51-0","1","FDA","2-(2-{4-[(4-chlorophenyl)(phenyl)methyl]piperazin-1-yl}ethoxy)acetic acid"
-"204","4","3,4-Biphenyldiol","92-05-7","1","CLINICAL_TRIALS","[1,1'-biphenyl]-3,4-diol"
-"204","3","Droxinostat","99873-43-5","1","CLINICAL_TRIALS","4-(4-chloro-2-methylphenoxy)-N-hydroxybutanamide"
-"204","2","GSK8612","2361659-62-1","0","PROBE","4-{[(5-bromo-2-{[3-methyl-1-(2,2,2-trifluoroethyl)-1H-pyrazol-4-yl]amino}pyrimidin-4-yl)amino]methyl}benzene-1-sulfonamide"
-"204","1","EMD 53998","120223-04-3","0","LEAD","5-[1-(3,4-dimethoxybenzoyl)-1,2,3,4-tetrahydroquinolin-6-yl]-6-methyl-3,6-dihydro-2H-1,3,4-thiadiazin-2-one"
-"205","5","Disopyramide","671-20-0","1","FDA","4-[bis(propan-2-yl)amino]-2-phenyl-2-(pyridin-2-yl)butanamide"
-"205","4","Coratop","57369-32-1","1","CLINICAL_TRIALS","1-azatricyclo[6.3.1.0⁴,¹²]dodeca-4(12),5,7-trien-11-one"
-"205","3","Kynurenic acid","492-27-3","1","CLINICAL_TRIALS","4-hydroxyquinoline-2-carboxylic acid"
-"205","2","Sotorasib","2252403-56-6","0","PROBE","6-fluoro-7-(2-fluoro-6-hydroxyphenyl)-1-[4-methyl-2-(propan-2-yl)pyridin-3-yl]-4-[(2S)-2-methyl-4-(prop-2-enoyl)piperazin-1-yl]-1H,2H-pyrido[2,3-d]pyrimidin-2-one"
-"205","1","LB 42708","226929-39-1","0","LEAD","4-[1-({1-[(4-bromophenyl)methyl]-1H-imidazol-5-yl}methyl)-4-(naphthalen-1-yl)-1H-pyrrole-3-carbonyl]morpholine"
-"206","5","Fenofibrate","49562-28-9","1","FDA","propan-2-yl 2-[4-(4-chlorobenzoyl)phenoxy]-2-methylpropanoate"
-"206","4","L-Dihydroorotic acid","5988-19-2","1","CLINICAL_TRIALS","(4S)-2,6-dioxo-1,3-diazinane-4-carboxylic acid"
-"206","3","Carzenide","138-41-0","1","CLINICAL_TRIALS","4-sulfamoylbenzoic acid"
-"206","2","GNE-049","1936421-41-8","0","PROBE","1-{3-[7-(difluoromethyl)-6-(1-methyl-1H-pyrazol-4-yl)-1,2,3,4-tetrahydroquinolin-1-yl]-1-(oxan-4-yl)-1H,4H,5H,6H,7H-pyrazolo[4,3-c]pyridin-5-yl}ethan-1-one"
-"206","1","CLK-IN-T3","2109805-56-1","0","PROBE","4-[2-methyl-1-(4-methylpiperazin-1-yl)-1-oxopropan-2-yl]-N-[6-(pyridin-4-yl)imidazo[1,2-a]pyridin-2-yl]benzamide"
-"207","5","Promazine hydrochloride","53-60-1","1","FDA","dimethyl[3-(10H-phenothiazin-10-yl)propyl]amine hydrochloride"
-"207","4","Cycloleucine","52-52-8","1","CLINICAL_TRIALS","1-aminocyclopentane-1-carboxylic acid"
-"207","3","3-Aminobenzamide","3544-24-9","1","CLINICAL_TRIALS","3-aminobenzamide"
-"207","2","NI-57","1883548-89-7","0","PROBE","4-cyano-N-(1,3-dimethyl-2-oxo-1,2-dihydroquinolin-6-yl)-2-methoxybenzene-1-sulfonamide"
-"207","1","WM-1119","2055397-28-7","0","PROBE","3-fluoro-N'-(2-fluorobenzenesulfonyl)-5-(pyridin-2-yl)benzohydrazide"
-"208","5","Methocarbamol","532-03-6","1","FDA","2-hydroxy-3-(2-methoxyphenoxy)propyl carbamate"
-"208","4","Homotaurine","3687-18-1","1","CLINICAL_TRIALS","3-aminopropane-1-sulfonic acid"
-"208","3","Quizartinib","950769-58-1","1","PROBE","3-(5-tert-butyl-1,2-oxazol-3-yl)-1-(4-{10-[2-(morpholin-4-yl)ethoxy]-7-thia-2,5-diazatricyclo[6.4.0.0²,⁶]dodeca-1(12),3,5,8,10-pentaen-4-yl}phenyl)urea"
-"208","2","Mavatrep","956274-94-5","1","PROBE","2-(2-{2-[(1E)-2-[4-(trifluoromethyl)phenyl]ethenyl]-1H-1,3-benzodiazol-6-yl}phenyl)propan-2-ol"
-"208","1","GNE 0877","1374828-69-9","0","LEAD","2-methyl-2-(3-methyl-4-{[4-(methylamino)-5-(trifluoromethyl)pyrimidin-2-yl]amino}-1H-pyrazol-1-yl)propanenitrile"
-"209","5","Carbidopa","28860-95-9","1","FDA","(2S)-3-(3,4-dihydroxyphenyl)-2-hydrazinyl-2-methylpropanoic acid"
-"209","4","VLX600","327031-55-0","0","CLINICAL_TRIALS","2-[1-(2-{6-methyl-5H-[1,2,4]triazino[5,6-b]indol-3-yl}hydrazin-1-ylidene)ethyl]pyridine"
-"209","3","Ogerin","1309198-71-7","0","PROBE","{2-[4-amino-6-(benzylamino)-1,3,5-triazin-2-yl]phenyl}methanol"
-"209","2","ML-145","1164500-72-4","0","LEAD","2-hydroxy-4-{4-[(5Z)-5-[(2E)-2-methyl-3-phenylprop-2-en-1-ylidene]-4-oxo-2-sulfanylidene-1,3-thiazolidin-3-yl]butanamido}benzoic acid"
-"209","1","FLI 06","313967-18-9","0","LEAD","cyclohexyl 2,7,7-trimethyl-4-(4-nitrophenyl)-5-oxo-1,4,5,6,7,8-hexahydroquinoline-3-carboxylate"
-"301","5","Selexipag","475086-01-2","1","FDA","2-{4-[(5,6-diphenylpyrazin-2-yl)(propan-2-yl)amino]butoxy}-N-methanesulfonylacetamide"
-"301","4","Olorofim","1928707-56-5","1","CLINICAL_TRIALS","2-(1,5-dimethyl-3-phenyl-1H-pyrrol-2-yl)-N-{4-[4-(5-fluoropyrimidin-2-yl)piperazin-1-yl]phenyl}-2-oxoacetamide"
-"301","3","Telacebec","1334719-95-7","1","CLINICAL_TRIALS","6-chloro-2-ethyl-N-[(4-{4-[4-(trifluoromethoxy)phenyl]piperidin-1-yl}phenyl)methyl]imidazo[1,2-a]pyridine-3-carboxamide"
-"301","2","GENZ 667161","1401090-53-6","1","LEAD","(3S)-1-azabicyclo[2.2.2]octan-3-yl N-{2-[2-(4-fluorophenyl)-1,3-thiazol-4-yl]propan-2-yl}carbamate"
-"301","1","CHIR 98014","252935-94-7","1","LEAD","N2-(2-{[4-(2,4-dichlorophenyl)-5-(1H-imidazol-1-yl)pyrimidin-2-yl]amino}ethyl)-5-nitropyridine-2,6-diamine"
-"302","5","Folic acid","59-30-3","1","FDA","(2S)-2-[(4-{[(2-amino-4-oxo-1,4-dihydropteridin-6-yl)methyl]amino}phenyl)formamido]pentanedioic acid"
-"302","4","Indoramin hydrochloride","38821-52-2","1","CLINICAL_TRIALS","N-{1-[2-(1H-indol-3-yl)ethyl]piperidin-4-yl}benzamide hydrochloride"
-"302","3","Entospletinib","1229208-44-9","1","PROBE","6-(1H-indazol-6-yl)-N-[4-(morpholin-4-yl)phenyl]imidazo[1,2-a]pyrazin-8-amine"
-"302","2","Glibenclamide","10238-21-8","1","PROBE","5-chloro-N-[2-(4-{[(cyclohexylcarbamoyl)amino]sulfonyl}phenyl)ethyl]-2-methoxybenzamide"
-"302","1","LY 411575","209984-57-6","0","LEAD","(2S)-2-[(2S)-2-(3,5-difluorophenyl)-2-hydroxyacetamido]-N-[(10S)-8-methyl-9-oxo-8-azatricyclo[9.4.0.0²,⁷]pentadeca-1(15),2,4,6,11,13-hexaen-10-yl]propanamide"
-"303","5","Captopril","62571-86-2","1","FDA","(2S)-1-[(2S)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic acid"
-"303","4","Begacestat","769169-27-9","1","CLINICAL_TRIALS","5-chloro-N-[(2S)-4,4,4-trifluoro-1-hydroxy-3-(trifluoromethyl)butan-2-yl]thiophene-2-sulfonamide"
-"303","3","Berberine chloride","633-65-8","1","CLINICAL_TRIALS","16,17-dimethoxy-5,7-dioxa-13λ⁵-azapentacyclo[11.8.0.0²,¹⁰.0⁴,⁸.0¹⁵,²⁰]henicosa-1(13),2,4(8),9,14,16,18,20-octaen-13-ylium chloride"
-"303","2","JDTic","361444-66-8","0","LEAD","(3R)-7-hydroxy-N-[(2S)-1-[(3R,4R)-4-(3-hydroxyphenyl)-3,4-dimethylpiperidin-1-yl]-3-methylbutan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide"
-"303","1","Merck 60","849234-64-6","1","LEAD","N-[2-amino-5-(thiophen-2-yl)phenyl]-4-acetamidobenzamide"
-"304","5","Carvedilol","72956-09-3","1","FDA","1-(9H-carbazol-4-yloxy)-3-{[2-(2-methoxyphenoxy)ethyl]amino}propan-2-ol"
-"304","4","Clevudine","163252-36-6","1","CLINICAL_TRIALS","1-[(2S,3R,4S,5S)-3-fluoro-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione"
-"304","3","XAV939","284028-89-3","1","PROBE","2-[4-(trifluoromethyl)phenyl]-5H,7H,8H-thiopyrano[4,3-d]pyrimidin-4-ol"
-"304","2","JNK-IN-8","1644498-56-5","1","PROBE","3-[(2E)-4-(dimethylamino)but-2-enamido]-N-(3-methyl-4-{[4-(pyridin-3-yl)pyrimidin-2-yl]amino}phenyl)benzamide"
-"304","1","Ro 4584820","741713-40-6","1","LEAD","5-(2,3-difluoro-6-methoxybenzoyl)-N2-(1-methanesulfonylpiperidin-4-yl)pyrimidine-2,4-diamine"
-"305","5","Nilutamide","63612-50-0","1","FDA","5,5-dimethyl-3-[4-nitro-3-(trifluoromethyl)phenyl]imidazolidine-2,4-dione"
-"305","4","Betahistine hydrochloride","15430-48-5","1","CLINICAL_TRIALS","methyl[2-(pyridin-2-yl)ethyl]amine hydrochloride"
-"305","3","Fexofenadine hydrochloride","153439-40-8","1","CLINICAL_TRIALS","2-(4-{1-hydroxy-4-[4-(hydroxydiphenylmethyl)piperidin-1-yl]butyl}phenyl)-2-methylpropanoic acid hydrochloride"
-"305","2","Dinaciclib","779353-01-4","1","LEAD","3-[({3-ethyl-5-[(2S)-2-(2-hydroxyethyl)piperidin-1-yl]pyrazolo[1,5-a]pyrimidin-7-yl}amino)methyl]pyridin-1-ium-1-olate"
-"305","1","GSK 650394","890842-28-1","0","LEAD","2-cyclopentyl-4-{5-phenyl-1H-pyrrolo[2,3-b]pyridin-3-yl}benzoic acid"
-"306","5","Nomifensine","24526-64-5","1","FDA","2-methyl-4-phenyl-1,2,3,4-tetrahydroisoquinolin-8-amine"
-"306","4","Parecoxib","198470-84-7","1","CLINICAL_TRIALS","N-[4-(5-methyl-3-phenyl-1,2-oxazol-4-yl)benzenesulfonyl]propanamide"
-"306","3","Navtemadlin","1352066-68-2","1","PROBE","2-[(3R,5R,6S)-5-(3-chlorophenyl)-6-(4-chlorophenyl)-3-methyl-1-[(2S)-3-methyl-1-(propane-2-sulfonyl)butan-2-yl]-2-oxopiperidin-3-yl]acetic acid"
-"306","2","BIIB 021","848695-25-0","1","PROBE","6-chloro-9-[(4-methoxy-3,5-dimethylpyridin-2-yl)methyl]-9H-purin-2-amine"
-"306","1","Mavacoxib","170569-88-7","1","LEAD","4-[5-(4-fluorophenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl]benzene-1-sulfonamide"
-"307","5","Quinidine","56-54-2","1","FDA","(S)-[(2R,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl](6-methoxyquinolin-4-yl)methanol"
-"307","4","Zorifertinib","1626387-80-1","1","CLINICAL_TRIALS","4-[(3-chloro-2-fluorophenyl)amino]-7-methoxyquinazolin-6-yl (2R)-2,4-dimethylpiperazine-1-carboxylate"
-"307","3","Vorapaxar","618385-01-6","1","CLINICAL_TRIALS","ethyl N-[(1R,3aR,4aR,6R,8aR,9S,9aS)-9-[(1E)-2-[5-(3-fluorophenyl)pyridin-2-yl]ethenyl]-1-methyl-3-oxo-dodecahydronaphtho[2,3-c]furan-6-yl]carbamate"
-"307","2","Luvixasertib","1610759-22-2","1","LEAD","N-cyclopropyl-2-methyl-4-[5-(pyridin-3-yloxy)-7-({[(1r,3s)-3-hydroxy-3-methylcyclobutyl]methyl}amino)pyrazolo[1,5-a]pyrimidin-3-yl]benzamide"
-"307","1","MDL 105725","189192-18-5","0","LEAD","3-[(R)-{1-[2-(4-fluorophenyl)ethyl]piperidin-4-yl}(hydroxy)methyl]-2-methoxyphenol"
-"401","5","Prednisolone","50-24-8","1","PROBE","(1R,3aS,3bS,9aR,9bS,10S,11aS)-1,10-dihydroxy-1-(2-hydroxyacetyl)-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one"
-"401","4","Ethinylestradiol","57-63-6","1","CLINICAL_TRIALS","(1R,3aS,3bR,9bS,11aS)-1-ethynyl-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H,11aH-cyclopenta[a]phenanthrene-1,7-diol"
-"401","3","Mometasone furoate","83919-23-7","1","LEAD","(1R,2R,3aS,3bS,9aS,9bR,10S,11aS)-9b-chloro-1-(2-chloroacetyl)-10-hydroxy-2,9a,11a-trimethyl-7-oxo-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-yl furan-2-carboxylate"
-"401","2","Grazoprevir","1350514-68-9","1","CLINICAL_TRIALS","(1R,18R,20R,24S,27S)-24-tert-butyl-N-[(1R,2S)-1-[(cyclopropanesulfonyl)carbamoyl]-2-ethenylcyclopropyl]-7-methoxy-22,25-dioxo-2,21-dioxa-4,11,23,26-tetraazapentacyclo[24.2.1.0³,¹².0⁵,¹⁰.0¹⁸,²⁰]nonacosa-3(12),4,6,8,10-pentaene-27-carboxamide"
-"401","1","Etoposide","33419-42-0","1","FDA","(10R,11R,15R,16S)-16-{[(2R,4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-methyl-hexahydro-2H-pyrano[3,2-d][1,3]dioxin-6-yl]oxy}-10-(4-hydroxy-3,5-dimethoxyphenyl)-4,6,13-trioxatetracyclo[7.7.0.0³,⁷.0¹¹,¹⁵]hexadeca-1,3(7),8-trien-12-one"
-"402","5","Prednisone","53-03-2","1","FDA","(1R,3aS,3bS,9aR,9bS,11aS)-1-hydroxy-1-(2-hydroxyacetyl)-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthrene-7,10-dione"
-"402","4","Epothilone B","152044-54-7","1","PROBE","(1S,3S,7S,10R,11S,12S,16R)-7,11-dihydroxy-8,8,10,12,16-pentamethyl-3-[(1E)-1-(2-methyl-1,3-thiazol-4-yl)prop-1-en-2-yl]-4,17-dioxabicyclo[14.1.0]heptadecane-5,9-dione"
-"402","3","Benactyzine","302-40-9","1","WITHDRAWN","2-(diethylamino)ethyl 2-hydroxy-2,2-diphenylacetate"
-"402","2","Lanicemine","153322-05-5","1","CLINICAL_TRIALS","(1S)-1-phenyl-2-(pyridin-2-yl)ethan-1-amine"
-"402","1","Tacrolimus","104987-11-3","1","PROBE","(1R,9S,12S,13R,14S,17R,21S,23S,24R,25S,27R)-1,14-dihydroxy-12-{1-[(1R,3R,4R)-4-hydroxy-3-methoxycyclohexyl]prop-1-en-2-yl}-23,25-dimethoxy-13,19,21,27-tetramethyl-17-(prop-2-en-1-yl)-11,28-dioxa-4-azatricyclo[22.3.1.0⁴,⁹]octacos-18-ene-2,3,10,16-tetrone"
-"403","5","Amoxicillin","26787-78-0","1","FDA","(2S,5R,6R)-6-[(2R)-2-amino-2-(4-hydroxyphenyl)acetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid"
-"403","4","Ifenprodil tartrate","23210-58-4","1","CLINICAL_TRIALS","(2R,3R)-2,3-dihydroxybutanedioic acid; bis(4-[(1R,2S)-2-(4-benzylpiperidin-1-yl)-1-hydroxypropyl]phenol)"
-"403","3","Rilzabrutinib","1575596-29-0","1","PROBE","(2E)-2-[(E)-(3R)-3-[4-amino-3-(2-fluoro-4-phenoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-1-yl]piperidine-1-carbonyl]-4-methyl-4-[4-(oxetan-3-yl)piperazin-1-yl]pent-2-enenitrile"
-"403","2","Caroxazone","18464-39-6","1","WITHDRAWN","2-(2-oxo-3,4-dihydro-2H-1,3-benzoxazin-3-yl)acetamide"
-"403","1","Afatinib","850140-72-6","1","PROBE","(2E)-N-{4-[(3-chloro-4-fluorophenyl)amino]-7-[(3S)-oxolan-3-yloxy]quinazolin-6-yl}-4-(dimethylamino)but-2-enamide"
-"404","5","Dihydroergotamine mesylate","6190-39-2","1","FDA","(2R,4R,7R)-N-[(1S,2S,4R,7S)-7-benzyl-2-hydroxy-4-methyl-5,8-dioxo-3-oxa-6,9-diazatricyclo[7.3.0.0²,⁶]dodecan-4-yl]-6-methyl-6,11-diazatetracyclo[7.6.1.0²,⁷.0¹²,¹⁶]hexadeca-1(16),9,12,14-tetraene-4-carboxamide; methanesulfonic acid"
-"404","4","Monoiodotyrosine","70-78-0","1","CLINICAL_TRIALS","(2S)-2-amino-3-(4-hydroxy-3-iodophenyl)propanoic acid"
-"404","3","CP 456773","210826-40-7","1","PROBE","1-(1,2,3,5,6,7-hexahydro-s-indacen-4-yl)-3-{[4-(2-hydroxypropan-2-yl)furan-2-yl]sulfonyl}urea"
-"404","2","Flumequine","42835-25-6","1","WITHDRAWN","7-fluoro-12-methyl-4-oxo-1-azatricyclo[7.3.1.0⁵,¹³]trideca-2,5,7,9(13)-tetraene-3-carboxylic acid"
-"404","1","Diltiazem hydrochloride","33286-22-5","1","CLINICAL_TRIALS","(2S,3S)-5-[2-(dimethylamino)ethyl]-2-(4-methoxyphenyl)-4-oxo-2,3,4,5-tetrahydro-1,5-benzothiazepin-3-yl acetate hydrochloride"
-"405","5","Flurbiprofen","5104-49-4","1","FDA","2-{2-fluoro-[1,1'-biphenyl]-4-yl}propanoic acid"
-"405","4","Paraxanthine","611-59-6","1","CLINICAL_TRIALS","1,7-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione"
-"405","3","Eltoprazine","98224-03-4","1","CLINICAL_TRIALS","1-(2,3-dihydro-1,4-benzodioxin-5-yl)piperazine"
-"405","2","Cinchonidine","485-71-2","1","CLINICAL_TRIALS","(R)-[(2S,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl](quinolin-4-yl)methanol"
-"405","1","SNS-032","345627-80-7","1","LEAD","N-(5-{[(5-tert-butyl-1,3-oxazol-2-yl)methyl]sulfanyl}-1,3-thiazol-2-yl)piperidine-4-carboxamide"
-"406","5","Proguanil hydrochloride","637-32-1","1","FDA","1-({amino[(4-chlorophenyl)amino]methylidene}amino)-N'-(propan-2-yl)methanimidamide hydrochloride"
-"406","4","Cannabinol","521-35-7","1","CLINICAL_TRIALS","6,6,9-trimethyl-3-pentyl-6H-benzo[c]chromen-1-ol"
-"406","3","Imidacloprid","138261-41-3","1","CLINICAL_TRIALS","2-chloro-5-{[2-(nitroimino)imidazolidin-1-yl]methyl}pyridine"
-"406","2","Idasanutlin","1229705-06-9","1","PROBE","4-[(2R,3S,4R,5S)-3-(3-chloro-2-fluorophenyl)-4-(4-chloro-2-fluorophenyl)-4-cyano-5-(2,2-dimethylpropyl)pyrrolidine-2-amido]-3-methoxybenzoic acid"
-"406","1","Syk Inhibitor IV","732983-37-8","1","LEAD","2-{[7-(3,4-dimethoxyphenyl)imidazo[1,2-c]pyrimidin-5-yl]amino}pyridine-3-carboxamide"
-"407","5","Olanzapine","132539-06-1","1","FDA","5-methyl-8-(4-methylpiperazin-1-yl)-4-thia-2,9-diazatricyclo[8.4.0.0³,⁷]tetradeca-1(14),3(7),5,8,10,12-hexaene"
-"407","4","Metarrestin","1443414-10-5","1","CLINICAL_TRIALS","(1r,4r)-4-{7-benzyl-4-imino-5,6-diphenyl-3H,4H,7H-pyrrolo[2,3-d]pyrimidin-3-yl}cyclohexan-1-ol"
-"407","3","Venlafaxine hydrochloride","99300-78-4","1","CLINICAL_TRIALS","1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl]cyclohexan-1-ol hydrochloride"
-"407","2","ML-352","1649450-12-3","1","PROBE","4-methoxy-3-[(1-methylpiperidin-4-yl)oxy]-N-{[3-(propan-2-yl)-1,2-oxazol-5-yl]methyl}benzamide"
-"407","1","Presatovir","1353625-73-6","1","LEAD","N-{2-[(2S)-2-{5-[(3S)-3-aminopyrrolidin-1-yl]-6-methylpyrazolo[1,5-a]pyrimidin-2-yl}piperidine-1-carbonyl]-4-chlorophenyl}methanesulfonamide"
-"408","5","Anastrozole","120511-73-1","1","FDA","2-[3-(1-cyano-1-methylethyl)-5-[(1H-1,2,4-triazol-1-yl)methyl]phenyl]-2-methylpropanenitrile"
-"408","4","Canertinib","267243-28-7","1","PROBE","N-{4-[(3-chloro-4-fluorophenyl)amino]-7-[3-(morpholin-4-yl)propoxy]quinazolin-6-yl}prop-2-enamide"
-"408","3","Anle138b","882697-00-9","1","CLINICAL_TRIALS","3-(2H-1,3-benzodioxol-5-yl)-5-(3-bromophenyl)-1H-pyrazole"
-"408","2","Chlorpromazine hydrochloride","69-09-0","1","CLINICAL_TRIALS","[3-(2-chloro-10H-phenothiazin-10-yl)propyl]dimethylamine hydrochloride"
-"408","1","SMN-C 3","1449597-34-5","1","LEAD","2-{4,6-dimethylpyrazolo[1,5-a]pyrazin-2-yl}-7-(1-ethylpiperidin-4-yl)-9-methyl-4H-pyrido[1,2-a]pyrimidin-4-one"
-"409","5","Diphenhydramine hydrochloride","147-24-0","1","FDA","[2-(diphenylmethoxy)ethyl]dimethylamine hydrochloride"
-"409","4","S-Trityl-L-cysteine","2799-07-7","1","CLINICAL_TRIALS","(2R)-2-amino-3-[(triphenylmethyl)sulfanyl]propanoic acid"
-"409","3","MK-1775","955365-80-7","1","PROBE","1-[6-(2-hydroxypropan-2-yl)pyridin-2-yl]-6-{[4-(4-methylpiperazin-1-yl)phenyl]amino}-2-(prop-2-en-1-yl)-1H,2H,3H-pyrazolo[3,4-d]pyrimidin-3-one"
-"409","2","BET domain inhibitor JQ1","1268524-70-4","1","PROBE","tert-butyl 2-[(9S)-7-(4-chlorophenyl)-4,5,13-trimethyl-3-thia-1,8,11,12-tetraazatricyclo[8.3.0.0²,⁶]trideca-2(6),4,7,10,12-pentaen-9-yl]acetate"
-"409","1","Phenacetin","62-44-2","1","WITHDRAWN","N-(4-ethoxyphenyl)acetamide"
-"410","5","Vorinostat","149647-78-9","1","FDA","N-hydroxy-N'-phenyloctanediamide"
-"410","4","PFI1","1403764-72-6","1","PROBE","2-methoxy-N-(3-methyl-2-oxo-1,2,3,4-tetrahydroquinazolin-6-yl)benzene-1-sulfonamide"
-"410","3","Ethoxzolamide","452-35-7","1","WITHDRAWN","6-ethoxy-1,3-benzothiazole-2-sulfonamide"
-"410","2","Carbendazim","10605-21-7","1","CLINICAL_TRIALS","methyl N-(1H-1,3-benzodiazol-2-yl)carbamate"
-"410","1","Levodropropizine","99291-25-5","1","CLINICAL_TRIALS","(2S)-3-(4-phenylpiperazin-1-yl)propane-1,2-diol"
-"411","5","Sulfamethoxydiazine","651-06-9","1","FDA","4-amino-N-(5-methoxypyrimidin-2-yl)benzene-1-sulfonamide"
-"411","4","Caramiphen","77-22-5","1","CLINICAL_TRIALS","2-(diethylamino)ethyl 1-phenylcyclopentane-1-carboxylate"
-"411","3","MS4078","2229036-62-6","1","PROBE","2-(4-{4-[(5-chloro-4-{[2-(propane-2-sulfonyl)phenyl]amino}pyrimidin-2-yl)amino]-2-methyl-5-(propan-2-yloxy)phenyl}piperidin-1-yl)-N-(2-{[2-(2,6-dioxopiperidin-3-yl)-1,3-dioxo-2,3-dihydro-1H-isoindol-4-yl]amino}ethyl)acetamide"
-"411","2","Bafetinib","859212-16-1","1","PROBE","N-[3-({[4,5'-bipyrimidin]-2-yl}amino)-4-methylphenyl]-4-{[(3S)-3-(dimethylamino)pyrrolidin-1-yl]methyl}-3-(trifluoromethyl)benzamide"
-"411","1","Methyclothiazide","135-07-9","1","WITHDRAWN","6-chloro-3-(chloromethyl)-2-methyl-1,1-dioxo-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide"
-"412","5","Zoledronate monohydrate","165800-06-6","1","FDA","[1-hydroxy-2-(1H-imidazol-1-yl)-1-phosphonoethyl]phosphonic acid hydrate"
-"412","4","Clioquinol","130-26-7","1","CLINICAL_TRIALS","5-chloro-7-iodoquinolin-8-ol"
-"412","3","Verapamil hydrochloride","152-11-4","1","CLINICAL_TRIALS","2-(3,4-dimethoxyphenyl)-5-{[2-(3,4-dimethoxyphenyl)ethyl](methyl)amino}-2-(propan-2-yl)pentanenitrile hydrochloride"
-"412","2","URMC-099","1229582-33-5","1","PROBE","5-(5-{4-[(4-methylpiperazin-1-yl)methyl]phenyl}-1H-pyrrolo[2,3-b]pyridin-3-yl)-1H-indole"
-"412","1","Momelotinib","1056634-68-4","1","LEAD","N-(cyanomethyl)-4-(2-{[4-(morpholin-4-yl)phenyl]amino}pyrimidin-4-yl)benzamide"
-"413","5","Sulfacetamide","144-80-9","1","FDA","N-(4-aminobenzenesulfonyl)acetamide"
-"413","4","Salbutamol sulphate","51022-70-9","1","CLINICAL_TRIALS","4-[2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol; sulfuric acid"
-"413","3","Trihexyphenidyl hydrochloride","52-49-3","1","CLINICAL_TRIALS","1-cyclohexyl-1-phenyl-3-(piperidin-1-yl)propan-1-ol hydrochloride"
-"413","2","Tomivosertib","1849590-01-7","1","PROBE","6'-[(6-aminopyrimidin-4-yl)amino]-8'-methyl-2',5'-dihydro-1'H-spiro[cyclohexane-1,3'-imidazo[1,5-a]pyridine]-1',5'-dione"
-"413","1","dBET1","1799711-21-9","1","LEAD","N-(4-{2-[(9S)-7-(4-chlorophenyl)-4,5,13-trimethyl-3-thia-1,8,11,12-tetraazatricyclo[8.3.0.0²,⁶]trideca-2(6),4,7,10,12-pentaen-9-yl]acetamido}butyl)-2-{[2-(2,6-dioxopiperidin-3-yl)-1,3-dioxo-2,3-dihydro-1H-isoindol-4-yl]oxy}acetamide"
-"414","5","Mesalamine","89-57-6","1","FDA","5-amino-2-hydroxybenzoic acid"
-"414","4","Chlorzoxazone","95-25-0","1","FDA","5-chloro-2,3-dihydro-1,3-benzoxazol-2-one"
-"414","3","Altretamine","645-05-6","1","CLINICAL_TRIALS","N2,N2,N4,N4,N6,N6-hexamethyl-1,3,5-triazine-2,4,6-triamine"
-"414","2","Trametinib dimethyl sulfoxide","1187431-43-1","1","PROBE","N-(3-{3-cyclopropyl-5-[(2-fluoro-4-iodophenyl)amino]-6,8-dimethyl-2,4,7-trioxo-1H,2H,3H,4H,6H,7H-pyrido[4,3-d]pyrimidin-1-yl}phenyl)acetamide; methanesulfinylmethane"
-"414","1","Infigratinib phosphate","1310746-10-1","1","PROBE","1-(2,6-dichloro-3,5-dimethoxyphenyl)-3-(6-{[4-(4-ethylpiperazin-1-yl)phenyl]amino}pyrimidin-4-yl)-3-methylurea; phosphoric acid"
+PARTICIPANT,N,Name,CAS,SYN,category,Syn1,Syn2,Syn3,SMILES
+201,5,Filgotinib,1206161-97-8,1,FDA,Filgotinib,"N-(5-{4-[(1,1-dioxo-1λ⁶-thiomorpholin-4-yl)methyl]phenyl}-[1,2,4]triazolo[1,5-a]pyridin-2-yl)cyclopropanecarboxamide",GLPG0634,O=C(NC=1N=C2C=CC=C(C=3C=CC(CN4CCS(=O)(=O)CC4)=CC3)N2N1)C5CC5
+201,4,parmodulin 2,423735-93-7,1,CLINICAL_TRIALS,parmodulin 2,2-bromo-N-(3-butanamidophenyl)benzamide,ML161,CCCC(=O)NC=1C=CC=C(NC(=O)C=2C=CC=CC2Br)C1
+201,3,(R)-Ofloxacin,100986-86-5,1,CLINICAL_TRIALS,(R)-Ofloxacin,"(2R)-7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.0⁵,¹³]trideca-5(13),6,8,11-tetraene-11-carboxylic acid",DR-3354,C[C@@H]1COC=2C(N3CCN(C)CC3)=C(F)C=C4C(=O)C(=CN1C24)C(=O)O
+201,2,GSK-5959,901245-65-6,0,PROBE,GSK-5959,"N-[1,3-dimethyl-2-oxo-6-(piperidin-1-yl)-2,3-dihydro-1H-1,3-benzodiazol-5-yl]-2-methoxybenzamide",,COC=1C=CC=CC1C(=O)NC=2C=C3N(C)C(=O)N(C)C3=CC2N4CCCCC4
+201,1,Navitoclax,923564-51-6,1,LEAD,Navitoclax,"4-(4-{[2-(4-chlorophenyl)-5,5-dimethylcyclohex-1-en-1-yl]methyl}piperazin-1-yl)-N-(4-{[(2R)-4-(morpholin-4-yl)-1-(phenylsulfanyl)butan-2-yl]amino}-3-trifluoromethanesulfonylbenzenesulfonyl)benzamide",ABT 263,CC1(C)CCC(=C(CN2CCN(CC2)C=3C=CC(=CC3)C(=O)NS(=O)(=O)C=4C=CC(N[C@H](CCN5CCOCC5)CSC=6C=CC=CC6)=C(C4)S(=O)(=O)C(F)(F)F)C1)C=7C=CC(Cl)=CC7
+202,5,Miglitol,72432-03-2,1,FDA,Miglitol,"(2R,3R,4R,5S)-1-(2-hydroxyethyl)-2-(hydroxymethyl)piperidine-3,4,5-triol",Glyset,OCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO
+202,4,Kartogenin,4727-31-5,1,CLINICAL_TRIALS,Kartogenin,"2-({[1,1'-biphenyl]-4-yl}carbamoyl)benzoic acid",KGN,OC(=O)C=1C=CC=CC1C(=O)NC=2C=CC(=CC2)C=3C=CC=CC3
+202,3,Frentizole,26130-02-9,1,CLINICAL_TRIALS,Frentizole,"3-(6-methoxy-1,3-benzothiazol-2-yl)-1-phenylurea",Frenazole,COC=1C=CC=2N=C(NC(=O)NC=3C=CC=CC3)SC2C1
+202,2,ABT-724,70006-24-5,0,PROBE,ABT-724,"2-{[4-(pyridin-2-yl)piperazin-1-yl]methyl}-1H-1,3-benzodiazole",,C(N1CCN(CC1)C=2C=CC=CN2)C3=NC=4C=CC=CC4N3
+202,1,Ro 90-7501,293762-45-5,0,LEAD,Ro 90-7501,"2-[2-(4-aminophenyl)-1H-1,3-benzodiazol-6-yl]-1H-1,3-benzodiazol-6-amine",,NC=1C=CC(=CC1)C2=NC=3C=CC(=CC3N2)C4=NC=5C=CC(N)=CC5N4
+203,5,Hydrocortisone acetate,50-03-3,1,FDA,Hydrocortisone acetate,"2-[(1R,3aS,3bS,9aR,9bS,10S,11aS)-1,10-dihydroxy-9a,11a-dimethyl-7-oxo-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-yl]-2-oxoethyl acetate",Cortisol 21-acetate,CC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C
+203,4,Bretylium tosylate,61-75-6,1,CLINICAL_TRIALS,Bretylium tosylate,[(2-bromophenyl)methyl](ethyl)dimethylazanium 4-methylbenzene-1-sulfonate,Bretylium,CC[N+](C)(C)CC=1C=CC=CC1Br.CC=1C=CC(=CC1)S(=O)(=O)[O-]
+203,3,SMI-4a,327033-36-3,1,CLINICAL_TRIALS,SMI-4a,"5-{[3-(trifluoromethyl)phenyl]methylidene}-1,3-thiazolidine-2,4-dione",TCS-PIM-1-4a,FC(F)(F)C=1C=CC=C(C=C2SC(=O)NC2=O)C1
+203,2,OL-135,681135-77-3,0,PROBE,OL-135,"7-phenyl-1-[5-(pyridin-2-yl)-1,3-oxazol-2-yl]heptan-1-one",,O=C(CCCCCCC=1C=CC=CC1)C2=NC=C(O2)C=3C=CC=CN3
+203,1,Corr 4a,421580-53-2,0,LEAD,Corr 4a,"N-(5-{2-[(5-chloro-2-methoxyphenyl)amino]-1,3-thiazol-4-yl}-4-methyl-1,3-thiazol-2-yl)benzamide",,COC=1C=CC(Cl)=CC1NC2=NC(=CS2)C=3SC(NC(=O)C=4C=CC=CC4)=NC3C
+204,5,Cetirizine,83881-51-0,1,FDA,Cetirizine,2-(2-{4-[(4-chlorophenyl)(phenyl)methyl]piperazin-1-yl}ethoxy)acetic acid,Aller-tec,OC(=O)COCCN1CCN(CC1)C(C=2C=CC=CC2)C=3C=CC(Cl)=CC3
+204,4,"3,4-Biphenyldiol",92-05-7,1,CLINICAL_TRIALS,"3,4-Biphenyldiol","[1,1'-biphenyl]-3,4-diol",NSC-1267,OC=1C=CC(=CC1O)C=2C=CC=CC2
+204,3,Droxinostat,99873-43-5,1,CLINICAL_TRIALS,Droxinostat,4-(4-chloro-2-methylphenoxy)-N-hydroxybutanamide,NS 41080,CC=1C=C(Cl)C=CC1OCCCC(=O)NO
+204,2,GSK8612,2361659-62-1,0,PROBE,GSK8612,"4-{[(5-bromo-2-{[3-methyl-1-(2,2,2-trifluoroethyl)-1H-pyrazol-4-yl]amino}pyrimidin-4-yl)amino]methyl}benzene-1-sulfonamide",,CC1=NN(CC(F)(F)F)C=C1NC=2N=CC(Br)=C(NCC=3C=CC(=CC3)S(=O)(=O)N)N2
+204,1,EMD 53998,120223-04-3,0,LEAD,EMD 53998,"5-[1-(3,4-dimethoxybenzoyl)-1,2,3,4-tetrahydroquinolin-6-yl]-6-methyl-3,6-dihydro-2H-1,3,4-thiadiazin-2-one",,COC=1C=CC(=CC1OC)C(=O)N2CCCC=3C=C(C=CC23)C4=NNC(=O)SC4C
+205,5,Disopyramide,671-20-0,1,FDA,Disopyramide,4-[bis(propan-2-yl)amino]-2-phenyl-2-(pyridin-2-yl)butanamide,Rythmodan,CC(C)N(CCC(C(=O)N)(C=1C=CC=CC1)C=2C=CC=CN2)C(C)C
+205,4,Coratop,57369-32-1,1,CLINICAL_TRIALS,Coratop,"1-azatricyclo[6.3.1.0⁴,¹²]dodeca-4(12),5,7-trien-11-one",pyroquilone,O=C1CCC=2C=CC=C3CCN1C32
+205,3,Kynurenic acid,492-27-3,1,CLINICAL_TRIALS,Kynurenic acid,4-hydroxyquinoline-2-carboxylic acid,Quinurenic acid,OC(=O)C=1C=C(O)C=2C=CC=CC2N1
+205,2,Sotorasib,2252403-56-6,0,PROBE,Sotorasib,"6-fluoro-7-(2-fluoro-6-hydroxyphenyl)-1-[4-methyl-2-(propan-2-yl)pyridin-3-yl]-4-[(2S)-2-methyl-4-(prop-2-enoyl)piperazin-1-yl]-1H,2H-pyrido[2,3-d]pyrimidin-2-one",,CC(C)C=1N=CC=C(C)C1N2C(=O)N=C(N3CCN(C[C@@H]3C)C(=O)C=C)C=4C=C(F)C(=NC24)C=5C(O)=CC=CC5F
+205,1,LB 42708,226929-39-1,0,LEAD,LB 42708,4-[1-({1-[(4-bromophenyl)methyl]-1H-imidazol-5-yl}methyl)-4-(naphthalen-1-yl)-1H-pyrrole-3-carbonyl]morpholine,,BrC=1C=CC(CN2C=NC=C2CN3C=C(C(=O)N4CCOCC4)C(=C3)C=5C=CC=C6C=CC=CC56)=CC1
+206,5,Fenofibrate,49562-28-9,1,FDA,Fenofibrate,propan-2-yl 2-[4-(4-chlorobenzoyl)phenoxy]-2-methylpropanoate,Antara,CC(C)OC(=O)C(C)(C)OC=1C=CC(=CC1)C(=O)C=2C=CC(Cl)=CC2
+206,4,L-Dihydroorotic acid,5988-19-2,1,CLINICAL_TRIALS,L-Dihydroorotic acid,"(4S)-2,6-dioxo-1,3-diazinane-4-carboxylic acid",L-Dihydroorotate,OC(=O)[C@@H]1CC(=O)NC(=O)N1
+206,3,Carzenide,138-41-0,1,CLINICAL_TRIALS,Carzenide,4-sulfamoylbenzoic acid,NSC 22976,NS(=O)(=O)C=1C=CC(=CC1)C(=O)O
+206,2,GNE-049,1936421-41-8,0,PROBE,GNE-049,"1-{3-[7-(difluoromethyl)-6-(1-methyl-1H-pyrazol-4-yl)-1,2,3,4-tetrahydroquinolin-1-yl]-1-(oxan-4-yl)-1H,4H,5H,6H,7H-pyrazolo[4,3-c]pyridin-5-yl}ethan-1-one",,CC(=O)N1CCC2=C(C1)C(=NN2C3CCOCC3)N4CCCC=5C=C(C=6C=NN(C)C6)C(=CC45)C(F)F
+206,1,CLK-IN-T3,2109805-56-1,0,PROBE,CLK-IN-T3,"4-[2-methyl-1-(4-methylpiperazin-1-yl)-1-oxopropan-2-yl]-N-[6-(pyridin-4-yl)imidazo[1,2-a]pyridin-2-yl]benzamide",,CN1CCN(CC1)C(=O)C(C)(C)C=2C=CC(=CC2)C(=O)NC3=CN4C=C(C=CC4=N3)C=5C=CN=CC5
+207,5,Promazine hydrochloride,53-60-1,1,FDA,Promazine hydrochloride,dimethyl[3-(10H-phenothiazin-10-yl)propyl]amine hydrochloride,Promazin,Cl.CN(C)CCCN1C=2C=CC=CC2SC=3C=CC=CC13
+207,4,Cycloleucine,52-52-8,1,CLINICAL_TRIALS,Cycloleucine,1-aminocyclopentane-1-carboxylic acid,NSC 1026,NC1(CCCC1)C(=O)O
+207,3,3-Aminobenzamide,3544-24-9,1,CLINICAL_TRIALS,3-Aminobenzamide,3-aminobenzamide,NSC 36962,NC(=O)C=1C=CC=C(N)C1
+207,2,NI-57,1883548-89-7,0,PROBE,NI-57,"4-cyano-N-(1,3-dimethyl-2-oxo-1,2-dihydroquinolin-6-yl)-2-methoxybenzene-1-sulfonamide",,COC=1C=C(C#N)C=CC1S(=O)(=O)NC=2C=CC=3N(C)C(=O)C(C)=CC3C2
+207,1,WM-1119,2055397-28-7,0,PROBE,WM-1119,3-fluoro-N'-(2-fluorobenzenesulfonyl)-5-(pyridin-2-yl)benzohydrazide,,FC=1C=C(C=C(C1)C=2C=CC=CN2)C(=O)NNS(=O)(=O)C=3C=CC=CC3F
+208,5,Methocarbamol,532-03-6,1,FDA,Methocarbamol,2-hydroxy-3-(2-methoxyphenoxy)propyl carbamate,Robaxin,COC=1C=CC=CC1OCC(O)COC(=O)N
+208,4,Homotaurine,3687-18-1,1,CLINICAL_TRIALS,Homotaurine,3-aminopropane-1-sulfonic acid,Tramiprosate,NCCCS(=O)(=O)O
+208,3,Quizartinib,950769-58-1,1,PROBE,Quizartinib,"3-(5-tert-butyl-1,2-oxazol-3-yl)-1-(4-{10-[2-(morpholin-4-yl)ethoxy]-7-thia-2,5-diazatricyclo[6.4.0.0²,⁶]dodeca-1(12),3,5,8,10-pentaen-4-yl}phenyl)urea",AC 010220,CC(C)(C)C1=CC(NC(=O)NC=2C=CC(=CC2)C3=CN4C(=N3)SC=5C=C(OCCN6CCOCC6)C=CC54)=NO1
+208,2,Mavatrep,956274-94-5,1,PROBE,Mavatrep,"2-(2-{2-[(1E)-2-[4-(trifluoromethyl)phenyl]ethenyl]-1H-1,3-benzodiazol-6-yl}phenyl)propan-2-ol",JNJ 39439335,CC(C)(O)C=1C=CC=CC1C=2C=CC=3N=C(/C=C/C=4C=CC(=CC4)C(F)(F)F)NC3C2
+208,1,GNE 0877,1374828-69-9,0,LEAD,GNE 0877,2-methyl-2-(3-methyl-4-{[4-(methylamino)-5-(trifluoromethyl)pyrimidin-2-yl]amino}-1H-pyrazol-1-yl)propanenitrile,,CNC=1N=C(NC2=CN(N=C2C)C(C)(C)C#N)N=CC1C(F)(F)F
+209,5,Carbidopa,28860-95-9,1,FDA,Carbidopa,"(2S)-3-(3,4-dihydroxyphenyl)-2-hydrazinyl-2-methylpropanoic acid",MK-486,C[C@@](CC=1C=CC(O)=C(O)C1)(NN)C(=O)O
+209,4,VLX600,327031-55-0,0,CLINICAL_TRIALS,VLX600,"2-[1-(2-{6-methyl-5H-[1,2,4]triazino[5,6-b]indol-3-yl}hydrazin-1-ylidene)ethyl]pyridine",,CC(=NNC=1N=NC=2C=3C=CC=C(C)C3NC2N1)C=4C=CC=CN4
+209,3,Ogerin,1309198-71-7,0,PROBE,Ogerin,"{2-[4-amino-6-(benzylamino)-1,3,5-triazin-2-yl]phenyl}methanol",,NC=1N=C(NCC=2C=CC=CC2)N=C(N1)C=3C=CC=CC3CO
+209,2,ML-145,1164500-72-4,0,LEAD,ML-145,"2-hydroxy-4-{4-[(5Z)-5-[(2E)-2-methyl-3-phenylprop-2-en-1-ylidene]-4-oxo-2-sulfanylidene-1,3-thiazolidin-3-yl]butanamido}benzoic acid",,C/C(=C\C=1C=CC=CC1)/C=C/2\SC(=S)N(CCCC(=O)NC=3C=CC(C(=O)O)=C(O)C3)C2=O
+209,1,FLI 06,313967-18-9,0,LEAD,FLI 06,"cyclohexyl 2,7,7-trimethyl-4-(4-nitrophenyl)-5-oxo-1,4,5,6,7,8-hexahydroquinoline-3-carboxylate",,CC1=C(C(C2=C(CC(C)(C)CC2=O)N1)C=3C=CC(=CC3)[N+](=O)[O-])C(=O)OC4CCCCC4
+301,5,Selexipag,475086-01-2,1,FDA,Selexipag,"2-{4-[(5,6-diphenylpyrazin-2-yl)(propan-2-yl)amino]butoxy}-N-methanesulfonylacetamide",NS-304,CC(C)N(CCCCOCC(=O)NS(=O)(=O)C)C=1C=NC(C=2C=CC=CC2)=C(N1)C=3C=CC=CC3
+301,4,Olorofim,1928707-56-5,1,CLINICAL_TRIALS,Olorofim,"2-(1,5-dimethyl-3-phenyl-1H-pyrrol-2-yl)-N-{4-[4-(5-fluoropyrimidin-2-yl)piperazin-1-yl]phenyl}-2-oxoacetamide",F901318,CC1=CC(=C(C(=O)C(=O)NC=2C=CC(=CC2)N3CCN(CC3)C=4N=CC(F)=CN4)N1C)C=5C=CC=CC5
+301,3,Telacebec,1334719-95-7,1,CLINICAL_TRIALS,Telacebec,"6-chloro-2-ethyl-N-[(4-{4-[4-(trifluoromethoxy)phenyl]piperidin-1-yl}phenyl)methyl]imidazo[1,2-a]pyridine-3-carboxamide",Q203,CCC=1N=C2C=CC(Cl)=CN2C1C(=O)NCC=3C=CC(=CC3)N4CCC(CC4)C=5C=CC(OC(F)(F)F)=CC5
+301,2,GENZ 667161,1401090-53-6,1,LEAD,GENZ 667161,"(3S)-1-azabicyclo[2.2.2]octan-3-yl N-{2-[2-(4-fluorophenyl)-1,3-thiazol-4-yl]propan-2-yl}carbamate",GZ 161,CC(C)(NC(=O)O[C@@H]1CN2CCC1CC2)C3=CSC(=N3)C=4C=CC(F)=CC4
+301,1,CHIR 98014,252935-94-7,1,LEAD,CHIR 98014,"N2-(2-{[4-(2,4-dichlorophenyl)-5-(1H-imidazol-1-yl)pyrimidin-2-yl]amino}ethyl)-5-nitropyridine-2,6-diamine",CT 98014,NC=1N=C(NCCNC=2N=CC(=C(N2)C=3C=CC(Cl)=CC3Cl)N4C=CN=C4)C=CC1[N+](=O)[O-]
+302,5,Folic acid,59-30-3,1,FDA,Folic acid,"(2S)-2-[(4-{[(2-amino-4-oxo-1,4-dihydropteridin-6-yl)methyl]amino}phenyl)formamido]pentanedioic acid",Folate,NC1=NC(=O)C=2N=C(CNC=3C=CC(=CC3)C(=O)N[C@@H](CCC(=O)O)C(=O)O)C=NC2N1
+302,4,Indoramin hydrochloride,38821-52-2,1,CLINICAL_TRIALS,Indoramin hydrochloride,N-{1-[2-(1H-indol-3-yl)ethyl]piperidin-4-yl}benzamide hydrochloride,Wydora,Cl.O=C(NC1CCN(CCC2=CNC=3C=CC=CC23)CC1)C=4C=CC=CC4
+302,3,Entospletinib,1229208-44-9,1,PROBE,Entospletinib,"6-(1H-indazol-6-yl)-N-[4-(morpholin-4-yl)phenyl]imidazo[1,2-a]pyrazin-8-amine",GS-9973,C1CN(CCO1)C=2C=CC(NC3=NC(=CN4C=CN=C34)C=5C=CC=6C=NNC6C5)=CC2
+302,2,Glibenclamide,10238-21-8,1,PROBE,Glibenclamide,5-chloro-N-[2-(4-{[(cyclohexylcarbamoyl)amino]sulfonyl}phenyl)ethyl]-2-methoxybenzamide,HB 419,COC=1C=CC(Cl)=CC1C(=O)NCCC=2C=CC(=CC2)S(=O)(=O)NC(=O)NC3CCCCC3
+302,1,LY 411575,209984-57-6,0,LEAD,LY 411575,"(2S)-2-[(2S)-2-(3,5-difluorophenyl)-2-hydroxyacetamido]-N-[(10S)-8-methyl-9-oxo-8-azatricyclo[9.4.0.0²,⁷]pentadeca-1(15),2,4,6,11,13-hexaen-10-yl]propanamide",,C[C@H](NC(=O)[C@@H](O)C=1C=C(F)C=C(F)C1)C(=O)N[C@@H]2C(=O)N(C)C=3C=CC=CC3C=4C=CC=CC24
+303,5,Captopril,62571-86-2,1,FDA,Captopril,(2S)-1-[(2S)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic acid,Captopryl,C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O
+303,4,Begacestat,769169-27-9,1,CLINICAL_TRIALS,Begacestat,"5-chloro-N-[(2S)-4,4,4-trifluoro-1-hydroxy-3-(trifluoromethyl)butan-2-yl]thiophene-2-sulfonamide",GSI-953,OC[C@@H](NS(=O)(=O)C1=CC=C(Cl)S1)C(C(F)(F)F)C(F)(F)F
+303,3,Berberine chloride,633-65-8,1,CLINICAL_TRIALS,Berberine chloride,"16,17-dimethoxy-5,7-dioxa-13λ⁵-azapentacyclo[11.8.0.0²,¹⁰.0⁴,⁸.0¹⁵,²⁰]henicosa-1(13),2,4(8),9,14,16,18,20-octaen-13-ylium chloride",Berbericine,[Cl-].COC=1C=CC=2C=C3C=4C=C5OCOC5=CC4CC[N+]3=CC2C1OC
+303,2,JDTic,361444-66-8,0,LEAD,JDTic,"(3R)-7-hydroxy-N-[(2S)-1-[(3R,4R)-4-(3-hydroxyphenyl)-3,4-dimethylpiperidin-1-yl]-3-methylbutan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide",,CC(C)[C@@H](CN1CC[C@](C)([C@@H](C)C1)C=2C=CC=C(O)C2)NC(=O)[C@H]3CC=4C=CC(O)=CC4CN3
+303,1,Merck 60,849234-64-6,1,LEAD,Merck 60,N-[2-amino-5-(thiophen-2-yl)phenyl]-4-acetamidobenzamide,JQ 12,CC(=O)NC=1C=CC(=CC1)C(=O)NC=2C=C(C=CC2N)C3=CC=CS3
+304,5,Carvedilol,72956-09-3,1,FDA,Carvedilol,1-(9H-carbazol-4-yloxy)-3-{[2-(2-methoxyphenoxy)ethyl]amino}propan-2-ol,Coreg,COC=1C=CC=CC1OCCNCC(O)COC=2C=CC=C3NC=4C=CC=CC4C23
+304,4,Clevudine,163252-36-6,1,CLINICAL_TRIALS,Clevudine,"1-[(2S,3R,4S,5S)-3-fluoro-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione",Levovir,CC1=CN([C@H]2O[C@@H](CO)[C@H](O)[C@H]2F)C(=O)NC1=O
+304,3,XAV939,284028-89-3,1,PROBE,XAV939,"2-[4-(trifluoromethyl)phenyl]-5H,7H,8H-thiopyrano[4,3-d]pyrimidin-4-ol",NVP-XAV 939,OC=1N=C(N=C2CCSCC12)C=3C=CC(=CC3)C(F)(F)F
+304,2,JNK-IN-8,1644498-56-5,1,PROBE,JNK-IN-8,3-[(2E)-4-(dimethylamino)but-2-enamido]-N-(3-methyl-4-{[4-(pyridin-3-yl)pyrimidin-2-yl]amino}phenyl)benzamide,JNKIN 8,CN(C)C/C=C/C(=O)NC=1C=CC=C(C1)C(=O)NC=2C=CC(NC=3N=CC=C(N3)C=4C=CC=NC4)=C(C)C2
+304,1,Ro 4584820,741713-40-6,1,LEAD,Ro 4584820,"5-(2,3-difluoro-6-methoxybenzoyl)-N2-(1-methanesulfonylpiperidin-4-yl)pyrimidine-2,4-diamine",R 547,COC=1C=CC(F)=C(F)C1C(=O)C=2C=NC(NC3CCN(CC3)S(=O)(=O)C)=NC2N
+305,5,Nilutamide,63612-50-0,1,FDA,Nilutamide,"5,5-dimethyl-3-[4-nitro-3-(trifluoromethyl)phenyl]imidazolidine-2,4-dione",RU-23908,CC1(C)NC(=O)N(C1=O)C=2C=CC([N+](=O)[O-])=C(C2)C(F)(F)F
+305,4,Betahistine hydrochloride,15430-48-5,1,CLINICAL_TRIALS,Betahistine hydrochloride,methyl[2-(pyridin-2-yl)ethyl]amine hydrochloride,NSC 42617,Cl.CNCCC=1C=CC=CN1
+305,3,Fexofenadine hydrochloride,153439-40-8,1,CLINICAL_TRIALS,Fexofenadine hydrochloride,2-(4-{1-hydroxy-4-[4-(hydroxydiphenylmethyl)piperidin-1-yl]butyl}phenyl)-2-methylpropanoic acid hydrochloride,Allegra,Cl.CC(C)(C(=O)O)C=1C=CC(=CC1)C(O)CCCN2CCC(CC2)C(O)(C=3C=CC=CC3)C=4C=CC=CC4
+305,2,Dinaciclib,779353-01-4,1,LEAD,Dinaciclib,"3-[({3-ethyl-5-[(2S)-2-(2-hydroxyethyl)piperidin-1-yl]pyrazolo[1,5-a]pyrimidin-7-yl}amino)methyl]pyridin-1-ium-1-olate",Sch 727965,CCC=1C=NN2C(NCC=3C=CC=[N+]([O-])C3)=CC(=NC12)N4CCCC[C@H]4CCO
+305,1,GSK 650394,890842-28-1,0,LEAD,GSK 650394,"2-cyclopentyl-4-{5-phenyl-1H-pyrrolo[2,3-b]pyridin-3-yl}benzoic acid",,OC(=O)C=1C=CC(=CC1C2CCCC2)C3=CNC=4N=CC(=CC34)C=5C=CC=CC5
+306,5,Nomifensine,24526-64-5,1,FDA,Nomifensine,"2-methyl-4-phenyl-1,2,3,4-tetrahydroisoquinolin-8-amine",Merital,CN1CC(C=2C=CC=CC2)C=3C=CC=C(N)C3C1
+306,4,Parecoxib,198470-84-7,1,CLINICAL_TRIALS,Parecoxib,"N-[4-(5-methyl-3-phenyl-1,2-oxazol-4-yl)benzenesulfonyl]propanamide",Dynastat,CCC(=O)NS(=O)(=O)C=1C=CC(=CC1)C2=C(C)ON=C2C=3C=CC=CC3
+306,3,Navtemadlin,1352066-68-2,1,PROBE,Navtemadlin,"2-[(3R,5R,6S)-5-(3-chlorophenyl)-6-(4-chlorophenyl)-3-methyl-1-[(2S)-3-methyl-1-(propane-2-sulfonyl)butan-2-yl]-2-oxopiperidin-3-yl]acetic acid",KRT-232,CC(C)[C@@H](CS(=O)(=O)C(C)C)N1[C@@H]([C@H](C[C@](C)(CC(=O)O)C1=O)C=2C=CC=C(Cl)C2)C=3C=CC(Cl)=CC3
+306,2,BIIB 021,848695-25-0,1,PROBE,BIIB 021,"6-chloro-9-[(4-methoxy-3,5-dimethylpyridin-2-yl)methyl]-9H-purin-2-amine",CNF 2024,COC=1C(C)=CN=C(CN2C=NC=3C(Cl)=NC(N)=NC23)C1C
+306,1,Mavacoxib,170569-88-7,1,LEAD,Mavacoxib,4-[5-(4-fluorophenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl]benzene-1-sulfonamide,PHA 739521,NS(=O)(=O)C=1C=CC(=CC1)N2N=C(C=C2C=3C=CC(F)=CC3)C(F)(F)F
+307,5,Quinidine,56-54-2,1,FDA,Quinidine,"(S)-[(2R,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl](6-methoxyquinolin-4-yl)methanol",CIN-QUIN,COC=1C=CC=2N=CC=C([C@H](O)[C@H]3C[C@@H]4CCN3C[C@@H]4C=C)C2C1
+307,4,Zorifertinib,1626387-80-1,1,CLINICAL_TRIALS,Zorifertinib,"4-[(3-chloro-2-fluorophenyl)amino]-7-methoxyquinazolin-6-yl (2R)-2,4-dimethylpiperazine-1-carboxylate",AZD3759,COC=1C=C2N=CN=C(NC=3C=CC=C(Cl)C3F)C2=CC1OC(=O)N4CCN(C)C[C@H]4C
+307,3,Vorapaxar,618385-01-6,1,CLINICAL_TRIALS,Vorapaxar,"ethyl N-[(1R,3aR,4aR,6R,8aR,9S,9aS)-9-[(1E)-2-[5-(3-fluorophenyl)pyridin-2-yl]ethenyl]-1-methyl-3-oxo-dodecahydronaphtho[2,3-c]furan-6-yl]carbamate",SCH 530348,CCOC(=O)N[C@@H]1CC[C@H]2[C@H](/C=C/C=3C=CC(=CN3)C=4C=CC=C(F)C4)[C@@H]5[C@@H](C)OC(=O)[C@@H]5C[C@@H]2C1
+307,2,Luvixasertib,1610759-22-2,1,LEAD,Luvixasertib,"N-cyclopropyl-2-methyl-4-[5-(pyridin-3-yloxy)-7-({[(1r,3s)-3-hydroxy-3-methylcyclobutyl]methyl}amino)pyrazolo[1,5-a]pyrimidin-3-yl]benzamide",CFI 402257,CC=1C=C(C=CC1C(=O)NC2CC2)C=3C=NN4C(NC[C@H]5C[C@@](C)(O)C5)=CC(OC=6C=CC=NC6)=NC34
+307,1,MDL 105725,189192-18-5,0,LEAD,MDL 105725,3-[(R)-{1-[2-(4-fluorophenyl)ethyl]piperidin-4-yl}(hydroxy)methyl]-2-methoxyphenol,,COC=1C(O)=CC=CC1[C@H](O)C2CCN(CCC=3C=CC(F)=CC3)CC2
+401,5,Prednisolone,50-24-8,1,PROBE,Prednisolone,"(1R,3aS,3bS,9aR,9bS,10S,11aS)-1,10-dihydroxy-1-(2-hydroxyacetyl)-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one",NSC 9900,C[C@@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]2CC[C@]1(O)C(=O)CO
+401,4,Ethinylestradiol,57-63-6,1,CLINICAL_TRIALS,Ethinylestradiol,"(1R,3aS,3bR,9bS,11aS)-1-ethynyl-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H,11aH-cyclopenta[a]phenanthrene-1,7-diol",Diogyn E,C[C@@]12CC[C@H]3[C@@H](CCC=4C=C(O)C=CC34)[C@@H]2CC[C@@]1(O)C#C
+401,3,Mometasone furoate,83919-23-7,1,LEAD,Mometasone furoate,"(1R,2R,3aS,3bS,9aS,9bR,10S,11aS)-9b-chloro-1-(2-chloroacetyl)-10-hydroxy-2,9a,11a-trimethyl-7-oxo-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-yl furan-2-carboxylate",SCH 32088,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H](O)C[C@]2(C)[C@@]1(OC(=O)C5=CC=CO5)C(=O)CCl
+401,2,Grazoprevir,1350514-68-9,1,CLINICAL_TRIALS,Grazoprevir,"(1R,18R,20R,24S,27S)-24-tert-butyl-N-[(1R,2S)-1-[(cyclopropanesulfonyl)carbamoyl]-2-ethenylcyclopropyl]-7-methoxy-22,25-dioxo-2,21-dioxa-4,11,23,26-tetraazapentacyclo[24.2.1.0³,¹².0⁵,¹⁰.0¹⁸,²⁰]nonacosa-3(12),4,6,8,10-pentaene-27-carboxamide",MK-5172,COC=1C=CC=2N=C3CCCCC[C@@H]4C[C@H]4OC(=O)N[C@H](C(=O)N5C[C@@H](C[C@H]5C(=O)N[C@@]6(C[C@H]6C=C)C(=O)NS(=O)(=O)C7CC7)OC3=NC2C1)C(C)(C)C
+401,1,Etoposide,33419-42-0,1,FDA,Etoposide,"(10R,11R,15R,16S)-16-{[(2R,4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-methyl-hexahydro-2H-pyrano[3,2-d][1,3]dioxin-6-yl]oxy}-10-(4-hydroxy-3,5-dimethoxyphenyl)-4,6,13-trioxatetracyclo[7.7.0.0³,⁷.0¹¹,¹⁵]hexadeca-1,3(7),8-trien-12-one",VP 16,COC=1C=C(C=C(OC)C1O)[C@H]2[C@@H]3[C@H](COC3=O)[C@H](O[C@@H]4O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]4O)C=6C=C7OCOC7=CC26
+402,5,Prednisone,53-03-2,1,FDA,Prednisone,"(1R,3aS,3bS,9aR,9bS,11aS)-1-hydroxy-1-(2-hydroxyacetyl)-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthrene-7,10-dione",Dehydrocortisone,C[C@@]12CC(=O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]2CC[C@]1(O)C(=O)CO
+402,4,Epothilone B,152044-54-7,1,PROBE,Epothilone B,"(1S,3S,7S,10R,11S,12S,16R)-7,11-dihydroxy-8,8,10,12,16-pentamethyl-3-[(1E)-1-(2-methyl-1,3-thiazol-4-yl)prop-1-en-2-yl]-4,17-dioxabicyclo[14.1.0]heptadecane-5,9-dione",EPO 906,C[C@H]1CCC[C@@]2(C)O[C@H]2C[C@H](OC(=O)C[C@H](O)C(C)(C)C(=O)[C@H](C)[C@H]1O)/C(=C/C3=CSC(C)=N3)/C
+402,3,Benactyzine,302-40-9,1,WITHDRAWN,Benactyzine,"2-(diethylamino)ethyl 2-hydroxy-2,2-diphenylacetate",Benactyzin,CCN(CC)CCOC(=O)C(O)(C=1C=CC=CC1)C=2C=CC=CC2
+402,2,Lanicemine,153322-05-5,1,CLINICAL_TRIALS,Lanicemine,(1S)-1-phenyl-2-(pyridin-2-yl)ethan-1-amine,AZD-6765,N[C@@H](CC=1C=CC=CN1)C=2C=CC=CC2
+402,1,Tacrolimus,104987-11-3,1,PROBE,Tacrolimus,"(1R,9S,12S,13R,14S,17R,21S,23S,24R,25S,27R)-1,14-dihydroxy-12-{1-[(1R,3R,4R)-4-hydroxy-3-methoxycyclohexyl]prop-1-en-2-yl}-23,25-dimethoxy-13,19,21,27-tetramethyl-17-(prop-2-en-1-yl)-11,28-dioxa-4-azatricyclo[22.3.1.0⁴,⁹]octacos-18-ene-2,3,10,16-tetrone",FK-506,CO[C@@H]1C[C@@H](CC[C@H]1O)C=C(C)[C@H]2OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@]4(O)O[C@@H]([C@H](C[C@H]4C)OC)[C@H](C[C@@H](C)CC(=C[C@@H](CC=C)C(=O)C[C@H](O)[C@H]2C)C)OC
+403,5,Amoxicillin,26787-78-0,1,FDA,Amoxicillin,"(2S,5R,6R)-6-[(2R)-2-amino-2-(4-hydroxyphenyl)acetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",Amox,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C=3C=CC(O)=CC3)C(=O)N2[C@H]1C(=O)O
+403,4,Ifenprodil tartrate,23210-58-4,1,CLINICAL_TRIALS,Ifenprodil tartrate,"(2R,3R)-2,3-dihydroxybutanedioic acid; bis(4-[(1R,2S)-2-(4-benzylpiperidin-1-yl)-1-hydroxypropyl]phenol)",RC 61-91,C[C@@H]([C@H](O)C=1C=CC(O)=CC1)N2CCC(CC=3C=CC=CC3)CC2.C[C@@H]([C@H](O)C=1C=CC(O)=CC1)N2CCC(CC=3C=CC=CC3)CC2.O[C@H]([C@@H](O)C(=O)O)C(=O)O
+403,3,Rilzabrutinib,1575596-29-0,1,PROBE,Rilzabrutinib,"(2E)-2-[(E)-(3R)-3-[4-amino-3-(2-fluoro-4-phenoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-1-yl]piperidine-1-carbonyl]-4-methyl-4-[4-(oxetan-3-yl)piperazin-1-yl]pent-2-enenitrile",PRN1008,CC(C)(/C=C(\C#N)/C(=O)N1CCC[C@H](C1)N2N=C(C=3C=CC(OC=4C=CC=CC4)=CC3F)C=5C(N)=NC=NC25)N6CCN(CC6)C7COC7
+403,2,Caroxazone,18464-39-6,1,WITHDRAWN,Caroxazone,"2-(2-oxo-3,4-dihydro-2H-1,3-benzoxazin-3-yl)acetamide",FI 6654,NC(=O)CN1CC=2C=CC=CC2OC1=O
+403,1,Afatinib,850140-72-6,1,PROBE,Afatinib,(2E)-N-{4-[(3-chloro-4-fluorophenyl)amino]-7-[(3S)-oxolan-3-yloxy]quinazolin-6-yl}-4-(dimethylamino)but-2-enamide,BIBW 2992,CN(C)C/C=C/C(=O)NC=1C=C2C(NC=3C=CC(F)=C(Cl)C3)=NC=NC2=CC1O[C@H]4CCOC4
+404,5,Dihydroergotamine mesylate,6190-39-2,1,FDA,Dihydroergotamine mesylate,"(2R,4R,7R)-N-[(1S,2S,4R,7S)-7-benzyl-2-hydroxy-4-methyl-5,8-dioxo-3-oxa-6,9-diazatricyclo[7.3.0.0²,⁶]dodecan-4-yl]-6-methyl-6,11-diazatetracyclo[7.6.1.0²,⁷.0¹²,¹⁶]hexadeca-1(16),9,12,14-tetraene-4-carboxamide; methanesulfonic acid",Dhe-45,CN1C[C@@H](C[C@H]2[C@H]1CC3=CNC=4C=CC=C2C34)C(=O)N[C@]5(C)O[C@@]6(O)[C@@H]7CCCN7C(=O)[C@H](CC=8C=CC=CC8)N6C5=O.CS(=O)(=O)O
+404,4,Monoiodotyrosine,70-78-0,1,CLINICAL_TRIALS,Monoiodotyrosine,(2S)-2-amino-3-(4-hydroxy-3-iodophenyl)propanoic acid,NSC 210787,N[C@@H](CC=1C=CC(O)=C(I)C1)C(=O)O
+404,3,CP 456773,210826-40-7,1,PROBE,CP 456773,"1-(1,2,3,5,6,7-hexahydro-s-indacen-4-yl)-3-{[4-(2-hydroxypropan-2-yl)furan-2-yl]sulfonyl}urea",MCC 950,CC(C)(O)C1=COC(=C1)S(=O)(=O)NC(=O)NC=2C=3CCCC3C=C4CCCC42
+404,2,Flumequine,42835-25-6,1,WITHDRAWN,Flumequine,"7-fluoro-12-methyl-4-oxo-1-azatricyclo[7.3.1.0⁵,¹³]trideca-2,5,7,9(13)-tetraene-3-carboxylic acid",R 802,CC1CCC=2C=C(F)C=C3C(=O)C(=CN1C23)C(=O)O
+404,1,Diltiazem hydrochloride,33286-22-5,1,CLINICAL_TRIALS,Diltiazem hydrochloride,"(2S,3S)-5-[2-(dimethylamino)ethyl]-2-(4-methoxyphenyl)-4-oxo-2,3,4,5-tetrahydro-1,5-benzothiazepin-3-yl acetate hydrochloride",d-cis-diltiazem,Cl.COC=1C=CC(=CC1)[C@@H]2SC=3C=CC=CC3N(CCN(C)C)C(=O)[C@@H]2OC(=O)C
+405,5,Flurbiprofen,5104-49-4,1,FDA,Flurbiprofen,"2-{2-fluoro-[1,1'-biphenyl]-4-yl}propanoic acid",BTS 18 322,CC(C(=O)O)C=1C=CC(=C(F)C1)C=2C=CC=CC2
+405,4,Paraxanthine,611-59-6,1,CLINICAL_TRIALS,Paraxanthine,"1,7-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione",NSC 400018,CN1C=NC=2NC(=O)N(C)C(=O)C12
+405,3,Eltoprazine,98224-03-4,1,CLINICAL_TRIALS,Eltoprazine,"1-(2,3-dihydro-1,4-benzodioxin-5-yl)piperazine",DU 28853,C1CN(CCN1)C=2C=CC=C3OCCOC23
+405,2,Cinchonidine,485-71-2,1,CLINICAL_TRIALS,Cinchonidine,"(R)-[(2S,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl](quinolin-4-yl)methanol",quinidine,O[C@@H]([C@@H]1C[C@@H]2CCN1C[C@@H]2C=C)C=3C=CN=C4C=CC=CC34
+405,1,SNS-032,345627-80-7,1,LEAD,SNS-032,"N-(5-{[(5-tert-butyl-1,3-oxazol-2-yl)methyl]sulfanyl}-1,3-thiazol-2-yl)piperidine-4-carboxamide",BMS-387032,CC(C)(C)C1=CN=C(CSC2=CN=C(NC(=O)C3CCNCC3)S2)O1
+406,5,Proguanil hydrochloride,637-32-1,1,FDA,Proguanil hydrochloride,1-({amino[(4-chlorophenyl)amino]methylidene}amino)-N'-(propan-2-yl)methanimidamide hydrochloride,Chlorguanide,Cl.CC(C)N=C(N)N=C(N)NC=1C=CC(Cl)=CC1
+406,4,Cannabinol,521-35-7,1,CLINICAL_TRIALS,Cannabinol,"6,6,9-trimethyl-3-pentyl-6H-benzo[c]chromen-1-ol",NSC 134455,CCCCCC=1C=C(O)C2=C(OC(C)(C)C=3C=CC(C)=CC32)C1
+406,3,Imidacloprid,138261-41-3,1,CLINICAL_TRIALS,Imidacloprid,2-chloro-5-{[2-(nitroimino)imidazolidin-1-yl]methyl}pyridine,AGST 03001,[O-][N+](=O)N=C1NCCN1CC=2C=CC(Cl)=NC2
+406,2,Idasanutlin,1229705-06-9,1,PROBE,Idasanutlin,"4-[(2R,3S,4R,5S)-3-(3-chloro-2-fluorophenyl)-4-(4-chloro-2-fluorophenyl)-4-cyano-5-(2,2-dimethylpropyl)pyrrolidine-2-amido]-3-methoxybenzoic acid",RG7388,COC=1C=C(C=CC1NC(=O)[C@@H]2N[C@@H](CC(C)(C)C)[C@@](C#N)([C@H]2C=3C=CC=C(Cl)C3F)C=4C=CC(Cl)=CC4F)C(=O)O
+406,1,Syk Inhibitor IV,732983-37-8,1,LEAD,Syk Inhibitor IV,"2-{[7-(3,4-dimethoxyphenyl)imidazo[1,2-c]pyrimidin-5-yl]amino}pyridine-3-carboxamide",BAY61-3606,COC=1C=CC(=CC1OC)C2=CC3=NC=CN3C(NC=4N=CC=CC4C(=O)N)=N2
+407,5,Olanzapine,132539-06-1,1,FDA,Olanzapine,"5-methyl-8-(4-methylpiperazin-1-yl)-4-thia-2,9-diazatricyclo[8.4.0.0³,⁷]tetradeca-1(14),3(7),5,8,10,12-hexaene",zyprexa,CN1CCN(CC1)C2=NC=3C=CC=CC3NC=4SC(C)=CC24
+407,4,Metarrestin,1443414-10-5,1,CLINICAL_TRIALS,Metarrestin,"(1r,4r)-4-{7-benzyl-4-imino-5,6-diphenyl-3H,4H,7H-pyrrolo[2,3-d]pyrimidin-3-yl}cyclohexan-1-ol",ML246,O[C@H]1CC[C@@H](CC1)N2C=NC=3N(CC=4C=CC=CC4)C(=C(C=5C=CC=CC5)C3C2=N)C=6C=CC=CC6
+407,3,Venlafaxine hydrochloride,99300-78-4,1,CLINICAL_TRIALS,Venlafaxine hydrochloride,1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl]cyclohexan-1-ol hydrochloride,Efexor,Cl.COC=1C=CC(=CC1)C(CN(C)C)C2(O)CCCCC2
+407,2,ML-352,1649450-12-3,1,PROBE,ML-352,"4-methoxy-3-[(1-methylpiperidin-4-yl)oxy]-N-{[3-(propan-2-yl)-1,2-oxazol-5-yl]methyl}benzamide",VU0476201,COC=1C=CC(=CC1OC2CCN(C)CC2)C(=O)NCC3=CC(=NO3)C(C)C
+407,1,Presatovir,1353625-73-6,1,LEAD,Presatovir,"N-{2-[(2S)-2-{5-[(3S)-3-aminopyrrolidin-1-yl]-6-methylpyrazolo[1,5-a]pyrimidin-2-yl}piperidine-1-carbonyl]-4-chlorophenyl}methanesulfonamide",GS5806,CC1=CN2N=C(C=C2N=C1N3CC[C@H](N)C3)[C@@H]4CCCCN4C(=O)C=5C=C(Cl)C=CC5NS(=O)(=O)C
+408,5,Anastrozole,120511-73-1,1,FDA,Anastrozole,"2-[3-(1-cyano-1-methylethyl)-5-[(1H-1,2,4-triazol-1-yl)methyl]phenyl]-2-methylpropanenitrile",arimidex,CC(C)(C#N)C=1C=C(CN2C=NC=N2)C=C(C1)C(C)(C)C#N
+408,4,Canertinib,267243-28-7,1,PROBE,Canertinib,N-{4-[(3-chloro-4-fluorophenyl)amino]-7-[3-(morpholin-4-yl)propoxy]quinazolin-6-yl}prop-2-enamide,PD-183805,FC=1C=CC(NC=2N=CN=C3C=C(OCCCN4CCOCC4)C(NC(=O)C=C)=CC23)=CC1Cl
+408,3,Anle138b,882697-00-9,1,CLINICAL_TRIALS,Anle138b,"3-(2H-1,3-benzodioxol-5-yl)-5-(3-bromophenyl)-1H-pyrazole",HY-101855,BrC=1C=CC=C(C1)C2=CC(=NN2)C=3C=CC=4OCOC4C3
+408,2,Chlorpromazine hydrochloride,69-09-0,1,CLINICAL_TRIALS,Chlorpromazine hydrochloride,[3-(2-chloro-10H-phenothiazin-10-yl)propyl]dimethylamine hydrochloride,NSC-167745,Cl.CN(C)CCCN1C=2C=CC=CC2SC=3C=CC(Cl)=CC13
+408,1,SMN-C 3,1449597-34-5,1,LEAD,SMN-C 3,"2-{4,6-dimethylpyrazolo[1,5-a]pyrazin-2-yl}-7-(1-ethylpiperidin-4-yl)-9-methyl-4H-pyrido[1,2-a]pyrimidin-4-one",RG 7800,CCN1CCC(CC1)C=2C=C(C)C3=NC(=CC(=O)N3C2)C=4C=C5C(C)=NC(C)=CN5N4
+409,5,Diphenhydramine hydrochloride,147-24-0,1,FDA,Diphenhydramine hydrochloride,[2-(diphenylmethoxy)ethyl]dimethylamine hydrochloride,Acetadryl,Cl.CN(C)CCOC(C=1C=CC=CC1)C=2C=CC=CC2
+409,4,S-Trityl-L-cysteine,2799-07-7,1,CLINICAL_TRIALS,S-Trityl-L-cysteine,(2R)-2-amino-3-[(triphenylmethyl)sulfanyl]propanoic acid,S-Tritylcysteine,N[C@@H](CSC(C=1C=CC=CC1)(C=2C=CC=CC2)C=3C=CC=CC3)C(=O)O
+409,3,MK-1775,955365-80-7,1,PROBE,MK-1775,"1-[6-(2-hydroxypropan-2-yl)pyridin-2-yl]-6-{[4-(4-methylpiperazin-1-yl)phenyl]amino}-2-(prop-2-en-1-yl)-1H,2H,3H-pyrazolo[3,4-d]pyrimidin-3-one",AZD1775,CN1CCN(CC1)C=2C=CC(NC=3N=CC=4C(=O)N(CC=C)N(C=5C=CC=C(N5)C(C)(C)O)C4N3)=CC2
+409,2,BET domain inhibitor JQ1,1268524-70-4,1,PROBE,BET domain inhibitor JQ1,"tert-butyl 2-[(9S)-7-(4-chlorophenyl)-4,5,13-trimethyl-3-thia-1,8,11,12-tetraazatricyclo[8.3.0.0²,⁶]trideca-2(6),4,7,10,12-pentaen-9-yl]acetate",JQ 1,CC1=NN=C2[C@H](CC(=O)OC(C)(C)C)N=C(C=3C(C)=C(C)SC3N12)C=4C=CC(Cl)=CC4
+409,1,Phenacetin,62-44-2,1,WITHDRAWN,Phenacetin,N-(4-ethoxyphenyl)acetamide,NSC-7651,CCOC=1C=CC(NC(=O)C)=CC1
+410,5,Vorinostat,149647-78-9,1,FDA,Vorinostat,N-hydroxy-N'-phenyloctanediamide,Zolinza,ONC(=O)CCCCCCC(=O)NC=1C=CC=CC1
+410,4,PFI1,1403764-72-6,1,PROBE,PFI1,"2-methoxy-N-(3-methyl-2-oxo-1,2,3,4-tetrahydroquinazolin-6-yl)benzene-1-sulfonamide",PF 6405761,COC=1C=CC=CC1S(=O)(=O)NC=2C=CC=3NC(=O)N(C)CC3C2
+410,3,Ethoxzolamide,452-35-7,1,WITHDRAWN,Ethoxzolamide,"6-ethoxy-1,3-benzothiazole-2-sulfonamide",NSC 10679,CCOC=1C=CC=2N=C(SC2C1)S(=O)(=O)N
+410,2,Carbendazim,10605-21-7,1,CLINICAL_TRIALS,Carbendazim,"methyl N-(1H-1,3-benzodiazol-2-yl)carbamate",BAS-67054F,COC(=O)NC1=NC=2C=CC=CC2N1
+410,1,Levodropropizine,99291-25-5,1,CLINICAL_TRIALS,Levodropropizine,"(2S)-3-(4-phenylpiperazin-1-yl)propane-1,2-diol",DF-526,OC[C@@H](O)CN1CCN(CC1)C=2C=CC=CC2
+411,5,Sulfamethoxydiazine,651-06-9,1,FDA,Sulfamethoxydiazine,4-amino-N-(5-methoxypyrimidin-2-yl)benzene-1-sulfonamide,sulfameter,COC=1C=NC(NS(=O)(=O)C=2C=CC(N)=CC2)=NC1
+411,4,Caramiphen,77-22-5,1,CLINICAL_TRIALS,Caramiphen,2-(diethylamino)ethyl 1-phenylcyclopentane-1-carboxylate,Parpanil,CCN(CC)CCOC(=O)C1(CCCC1)C=2C=CC=CC2
+411,3,MS4078,2229036-62-6,1,PROBE,MS4078,"2-(4-{4-[(5-chloro-4-{[2-(propane-2-sulfonyl)phenyl]amino}pyrimidin-2-yl)amino]-2-methyl-5-(propan-2-yloxy)phenyl}piperidin-1-yl)-N-(2-{[2-(2,6-dioxopiperidin-3-yl)-1,3-dioxo-2,3-dihydro-1H-isoindol-4-yl]amino}ethyl)acetamide",CZ40-78,CC(C)OC=1C=C(C2CCN(CC(=O)NCCNC=3C=CC=C4C(=O)N(C5CCC(=O)NC5=O)C(=O)C43)CC2)C(C)=CC1NC=6N=CC(Cl)=C(NC=7C=CC=CC7S(=O)(=O)C(C)C)N6
+411,2,Bafetinib,859212-16-1,1,PROBE,Bafetinib,"N-[3-({[4,5'-bipyrimidin]-2-yl}amino)-4-methylphenyl]-4-{[(3S)-3-(dimethylamino)pyrrolidin-1-yl]methyl}-3-(trifluoromethyl)benzamide",INNO-406,CN(C)[C@H]1CCN(CC=2C=CC(=CC2C(F)(F)F)C(=O)NC=3C=CC(C)=C(NC=4N=CC=C(N4)C=5C=NC=NC5)C3)C1
+411,1,Methyclothiazide,135-07-9,1,WITHDRAWN,Methyclothiazide,"6-chloro-3-(chloromethyl)-2-methyl-1,1-dioxo-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide",Methyclothiazid,CN1C(CCl)NC=2C=C(Cl)C(=CC2S1(=O)=O)S(=O)(=O)N
+412,5,Zoledronate monohydrate,165800-06-6,1,FDA,Zoledronate monohydrate,[1-hydroxy-2-(1H-imidazol-1-yl)-1-phosphonoethyl]phosphonic acid hydrate,CGP 42446,O.OC(CN1C=CN=C1)(P(=O)(O)O)P(=O)(O)O
+412,4,Clioquinol,130-26-7,1,CLINICAL_TRIALS,Clioquinol,5-chloro-7-iodoquinolin-8-ol,Chloroiodoquin,OC=1C(I)=CC(Cl)=C2C=CC=NC12
+412,3,Verapamil hydrochloride,152-11-4,1,CLINICAL_TRIALS,Verapamil hydrochloride,"2-(3,4-dimethoxyphenyl)-5-{[2-(3,4-dimethoxyphenyl)ethyl](methyl)amino}-2-(propan-2-yl)pentanenitrile hydrochloride",Iproveratril,Cl.COC=1C=CC(CCN(C)CCCC(C#N)(C(C)C)C=2C=CC(OC)=C(OC)C2)=CC1OC
+412,2,URMC-099,1229582-33-5,1,PROBE,URMC-099,"5-(5-{4-[(4-methylpiperazin-1-yl)methyl]phenyl}-1H-pyrrolo[2,3-b]pyridin-3-yl)-1H-indole",URMC 099-C,CN1CCN(CC=2C=CC(=CC2)C=3C=NC=4NC=C(C=5C=CC=6NC=CC6C5)C4C3)CC1
+412,1,Momelotinib,1056634-68-4,1,LEAD,Momelotinib,N-(cyanomethyl)-4-(2-{[4-(morpholin-4-yl)phenyl]amino}pyrimidin-4-yl)benzamide,Cyt-387,O=C(NCC#N)C=1C=CC(=CC1)C=2C=CN=C(NC=3C=CC(=CC3)N4CCOCC4)N2
+413,5,Sulfacetamide,144-80-9,1,FDA,Sulfacetamide,N-(4-aminobenzenesulfonyl)acetamide,NSC-63871,CC(=O)NS(=O)(=O)C=1C=CC(N)=CC1
+413,4,Salbutamol sulphate,51022-70-9,1,CLINICAL_TRIALS,Salbutamol sulphate,4-[2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol; sulfuric acid,albuterol sulphate,CC(C)(C)NCC(O)C=1C=CC(O)=C(CO)C1.OS(=O)(=O)O
+413,3,Trihexyphenidyl hydrochloride,52-49-3,1,CLINICAL_TRIALS,Trihexyphenidyl hydrochloride,1-cyclohexyl-1-phenyl-3-(piperidin-1-yl)propan-1-ol hydrochloride,Win 511,Cl.OC(CCN1CCCCC1)(C2CCCCC2)C=3C=CC=CC3
+413,2,Tomivosertib,1849590-01-7,1,PROBE,Tomivosertib,"6'-[(6-aminopyrimidin-4-yl)amino]-8'-methyl-2',5'-dihydro-1'H-spiro[cyclohexane-1,3'-imidazo[1,5-a]pyridine]-1',5'-dione",EFT 508,CC=1C=C(NC=2C=C(N)N=CN2)C(=O)N3C1C(=O)NC43CCCCC4
+413,1,dBET1,1799711-21-9,1,LEAD,dBET1,"N-(4-{2-[(9S)-7-(4-chlorophenyl)-4,5,13-trimethyl-3-thia-1,8,11,12-tetraazatricyclo[8.3.0.0²,⁶]trideca-2(6),4,7,10,12-pentaen-9-yl]acetamido}butyl)-2-{[2-(2,6-dioxopiperidin-3-yl)-1,3-dioxo-2,3-dihydro-1H-isoindol-4-yl]oxy}acetamide",ZBC-244,CC1=NN=C2[C@H](CC(=O)NCCCCNC(=O)COC=3C=CC=C4C(=O)N(C5CCC(=O)NC5=O)C(=O)C43)N=C(C=6C(C)=C(C)SC6N12)C=7C=CC(Cl)=CC7
+414,5,Mesalamine,89-57-6,1,FDA,Mesalamine,5-amino-2-hydroxybenzoic acid,mesalazine,NC=1C=CC(O)=C(C1)C(=O)O
+414,4,Chlorzoxazone,95-25-0,1,FDA,Chlorzoxazone,"5-chloro-2,3-dihydro-1,3-benzoxazol-2-one",MI 315,ClC=1C=CC=2OC(=O)NC2C1
+414,3,Altretamine,645-05-6,1,CLINICAL_TRIALS,Altretamine,"N2,N2,N4,N4,N6,N6-hexamethyl-1,3,5-triazine-2,4,6-triamine",NSC 13875,CN(C)C1=NC(=NC(=N1)N(C)C)N(C)C
+414,2,Trametinib dimethyl sulfoxide,1187431-43-1,1,PROBE,Trametinib dimethyl sulfoxide,"N-(3-{3-cyclopropyl-5-[(2-fluoro-4-iodophenyl)amino]-6,8-dimethyl-2,4,7-trioxo-1H,2H,3H,4H,6H,7H-pyrido[4,3-d]pyrimidin-1-yl}phenyl)acetamide; methanesulfinylmethane",GSK 1120212B,CC(=O)NC=1C=CC=C(C1)N2C(=O)N(C3CC3)C(=O)C4=C(NC=5C=CC(I)=CC5F)N(C)C(=O)C(C)=C24.CS(=O)C
+414,1,Infigratinib phosphate,1310746-10-1,1,PROBE,Infigratinib phosphate,"1-(2,6-dichloro-3,5-dimethoxyphenyl)-3-(6-{[4-(4-ethylpiperazin-1-yl)phenyl]amino}pyrimidin-4-yl)-3-methylurea; phosphoric acid",BGJ 398,CCN1CCN(CC1)C=2C=CC(NC=3C=C(N=CN3)N(C)C(=O)NC=4C(Cl)=C(OC)C=C(OC)C4Cl)=CC2.OP(=O)(O)O
