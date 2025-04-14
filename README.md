@@ -1,5 +1,9 @@
 # Chemistry Meets Biology: Cross-Disciplinary Database Evaluation for Drug Research
-![Cover Image](Pic1.png) <br>
+<p align="center">
+  <img src="Pic1.png" alt="Cover Image" width="400"/>
+</p>
+
+<br>
 Supporting information and files for the article **Chemistry Meets Biology: Cross-Disciplinary Database Evaluation for Drug Research** <br>
 Article could be accessed by [following link.](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c00021) <br>
 For further details see jupyter notebook **Survey_analysis.ipynb**
